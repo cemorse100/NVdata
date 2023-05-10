@@ -1,0 +1,457 @@
+﻿callsign,frequency,band,names,nlu_names,location.city,location.country,location.full_state_name,location.state,free_search,geolocation.coordinates,geolocation.type,popularity
+KBMW,92.7,FM,B92.7,"[""B92.7""]",Breckenridge,US,Minnesota,MN,"[""B92.7"",""92.7"",""KBMW"",""Breckenridge"",""FM""]","[-96.58809661865234,46.280601501464844]",Point,1
+KAYD,101.7,FM,KD 101.7,"[""KD""]",Beaumont,US,Texas,TX,"[""KD 101.7"",""101.7"",""KAYD"",""Beaumont"",""FM""]","[-94.10179901123047,30.086000442504883]",Point,2
+KSZR,97.5,FM,97.5 The Vibe,"[""The Vibe""]",Oro Valley,US,Arizona,AZ,"[""97.5 The Vibe"",""97.5"",""KSZR"",""Oro Valley"",""FM""]","[-110.96600341796875,32.390899658203125]",Point,2.1
+KYLR,92.1,FM,Air1 Radio,"[""Air1 Radio""]",Hutto,US,Texas,TX,"[""Air1 Radio"",""92.1"",""KYLR"",""Hutto"",""FM""]","[-97.54669952392578,30.542699813842773]",Point,1.7
+,,,Lam Rim Radio,"[""Lam Rim Radio""]",Orlando,US,Florida,FL,"[""Lam Rim Radio"",""Orlando""]","[-81.37920379638672,28.538299560546875]",Point,0.5
+,,,Sleepbot Environmental Broadcast,"[""Sleepbot Environmental Broadcast""]",Seattle,US,Washington,WA,"[""Sleepbot Environmental Broadcast"",""Seattle""]","[-122.33200073242188,47.606201171875]",Point,1.2
+WXJZ,100.9,FM,Classic Hits 100.9,"[""Classic Hits""]",Gainesville,US,Florida,FL,"[""Classic Hits 100.9"",""100.9"",""WXJZ"",""Gainesville"",""FM""]","[-82.31390380859375,29.634199142456055]",Point,1.7
+WJSP,88.1,FM,GPB Radio,"[""GPB Radio""]",Warm Springs,US,Georgia,GA,"[""GPB Radio"",""88.1"",""WJSP"",""Warm Springs"",""FM""]","[-84.68099975585938,32.89039993286133]",Point,2.7
+KYAL,1550,AM,KYAL,[],Sapulpa,US,Oklahoma,OK,"[""KYAL"",""1550"",""KYAL"",""Sapulpa"",""AM""]","[-96.09860229492188,36.01890182495117]",Point,0.1
+KTSO,100.9,FM,KTSO,[],Sapulpa,US,Oklahoma,OK,"[""KTSO"",""100.9"",""KTSO"",""Sapulpa"",""FM""]","[-96.03720092773438,35.967201232910156]",Point,1.9
+WCPR,97.9,FM,97.9 CPR Rocks,"[""CPR Rocks""]",D'iberville,US,Mississippi,MS,"[""97.9 CPR Rocks"",""97.9"",""WCPR"",""D'iberville"",""FM""]","[-88.89089965820312,30.426300048828125]",Point,2
+WDMV,700,AM,Radio La Jefa,"[""Radio La Jefa""]",Walkersville,US,Maryland,MD,"[""Radio La Jefa"",""700"",""WDMV"",""Walkersville"",""AM""]","[-77.32420349121094,39.45750045776367]",Point,1.9
+KUZZ,550,AM,KUZZ-FM,"[""KUZZ-FM""]",Bakersfield,US,California,CA,"[""KUZZ-FM"",""550"",""KUZZ"",""Bakersfield"",""AM""]","[-118.93699645996094,35.340301513671875]",Point,1.9
+KWID,101.9,FM,La Buena,"[""La Buena""]",Las Vegas,US,Nevada,NV,"[""La Buena"",""101.9"",""KWID"",""Las Vegas"",""FM""]","[-115.00599670410156,36.0078010559082]",Point,1.1
+,,,Braingell Radio,"[""Braingell Radio""]",Fruitland Park,US,Florida,FL,"[""Braingell Radio"",""Fruitland Park""]","[-81.90650177001953,28.861400604248047]",Point,1.5
+,,,FRISKY Radio,"[""FRISKY Radio""]",New York,US,New York,NY,"[""FRISKY Radio"",""New York""]","[-74.00599670410156,40.714298248291016]",Point,0.9
+,,,SomaFM: cliqhop idm,"[""SomaFM: cliqhop idm""]",San Francisco,US,California,CA,"[""SomaFM: cliqhop idm"",""San Francisco""]","[-122.41899871826172,37.774898529052734]",Point,2
+WBPC,95.1,FM,Beach 95.1,"[""Beach""]",Ebro,US,Florida,FL,"[""Beach 95.1"",""95.1"",""WBPC"",""Ebro"",""FM""]","[-85.87409973144531,30.447999954223633]",Point,0.1
+,,,VoiceAmerica Empowerment,"[""VoiceAmerica Empowerment""]",Tempe,US,Arizona,AZ,"[""VoiceAmerica Empowerment"",""Tempe""]","[-111.90899658203125,33.414798736572266]",Point,1.6
+,,,Mystery Play Internet Radio,"[""Mystery Play Internet Radio""]",Oklahoma City,US,Oklahoma,OK,"[""Mystery Play Internet Radio"",""Oklahoma City""]","[-97.51640319824219,35.46760177612305]",Point,4.5
+KDXX,107.9,FM,Latino Mix 107.9/107.1,"[""Latino Mix 107.9/107.1""]",Dallas,US,Texas,TX,"[""Latino Mix 107.9/107.1"",""107.9"",""KDXX"",""Dallas"",""FM""]","[-96.80670166015625,32.78310012817383]",Point,2
+KSGF,1260,AM,KSGF,[],Springfield,US,Missouri,MO,"[""KSGF"",""1260"",""KSGF"",""Springfield"",""AM""]","[-93.29820251464844,37.215301513671875]",Point,2.3
+WYBK,89.7,FM,BBN Radio,"[""BBN Radio""]",Chattanooga,US,Tennessee,TN,"[""BBN Radio"",""89.7"",""WYBK"",""Chattanooga"",""FM""]","[-85.31610107421875,35.1713981628418]",Point,4.5
+,,,VoiceAmerica Business,"[""VoiceAmerica Business""]",Tempe,US,Arizona,AZ,"[""VoiceAmerica Business"",""Tempe""]","[-111.90899658203125,33.414798736572266]",Point,1.6
+WYGG,88.1,FM,Good News Radio,"[""Good News Radio""]",Asbury Park,US,New Jersey,NJ,"[""Good News Radio"",""88.1"",""WYGG"",""Asbury Park"",""FM""]","[-74.0105972290039,40.217201232910156]",Point,1.1
+,105.7,FM,ITZA Radio HD,"[""ITZA Radio HD""]",Nueva York,US,,Estados Unidos,"[""ITZA Radio HD"",""ITZA Radio HD"",""105.7"",""Nueva York"",""FM""]","[9.918700218200684,57.04800033569336]",Point,1.5
+WAMU-HD2,88.5,FM,Bluegrass Country,"[""Bluegrass Country""]",Washington,US,Washington D.C.,DC,"[""Bluegrass Country"",""88.5"",""WAMU-HD2"",""Washington"",""FM""]","[-77.09249877929688,38.936100006103516]",Point,4.1
+,,,Nugs Radio,"[""Nugs Radio""]",San Francisco,US,California,CA,"[""Nugs Radio"",""San Francisco""]","[-122.41899871826172,37.774898529052734]",Point,0.6
+WLLN,1370,AM,La Grande NC,"[""La Grande NC""]",Lillington,US,North Carolina,NC,"[""La Grande NC"",""1370"",""WLLN"",""Lillington"",""AM""]","[-78.80609893798828,35.38779830932617]",Point,1.9
+XETRA,91.1,FM,91X,"[""91X""]",San Diego,US,California,CA,"[""91X"",""91.1"",""XETRA"",""San Diego"",""FM""]","[-117.15699768066406,32.715301513671875]",Point,1.8
+KPRB,106.3,FM,B106,"[""B106""]",Brush,US,Colorado,CO,"[""B106"",""106.3"",""KPRB"",""Brush"",""FM""]","[-103.69599914550781,40.217201232910156]",Point,1.1
+KMAJ,107.7,FM,Majic 107.7 Topeka,"[""Majic Topeka""]",Carbondale,US,Kansas,KS,"[""Majic 107.7 Topeka"",""107.7"",""KMAJ"",""Carbondale"",""FM""]","[-95.68910217285156,38.818599700927734]",Point,1.3
+WMAC,940,AM,News Talk 940 WMAdult Hits,"[""News Talk WMAdult Hits""]",Macon,US,Georgia,GA,"[""News Talk 940 WMAdult Hits"",""940"",""WMAC"",""Macon"",""AM""]","[-83.63240051269531,32.8406982421875]",Point,1.7
+WSB,750,AM,WSB,[],Atlanta,US,Georgia,GA,"[""WSB"",""750"",""WSB"",""Atlanta"",""AM""]","[-84.38800048828125,33.749000549316406]",Point,4.7
+WQRR,101.7,FM,Alt 101.7,"[""Alt""]",Reform,US,Alabama,AL,"[""Alt 101.7"",""101.7"",""WQRR"",""Reform"",""FM""]","[-88.01529693603516,33.378501892089844]",Point,2.2
+WZIQ,106.5,FM,GNNradio,"[""GNNradio""]",Smithville,US,Georgia,GA,"[""GNNradio"",""106.5"",""WZIQ"",""Smithville"",""FM""]","[-84.24829864501953,31.799699783325195]",Point,1.1
+,,,Old Christian Radio,"[""Old Christian Radio""]",Grand Prairie,US,Texas,TX,"[""Old Christian Radio"",""Grand Prairie""]","[-96.997802734375,32.74599838256836]",Point,1.6
+,,,Radio Soleil New York,"[""Radio Soleil New York""]",Brooklyn,US,New York,NY,"[""Radio Soleil New York"",""Brooklyn""]","[-73.94960021972656,40.65010070800781]",Point,4
+,106.9,FM,Classic Rock 1069,"[""Classic Rock""]",Homewood,US,Alabama,AL,"[""Classic Rock 1069"",""106.9"",""Homewood"",""FM""]","[-86.80079650878906,33.4718017578125]",Point,4.5
+WDFB,88.1,FM,WDFB-FM,"[""WDFB-FM""]",Danville,US,Kentucky,KY,"[""WDFB-FM"",""88.1"",""WDFB"",""Danville"",""FM""]","[-84.8386001586914,37.596099853515625]",Point,2.7
+,,,Country Bear Radio,"[""Country Bear Radio""]",Lake Placid,US,Florida,FL,"[""Country Bear Radio"",""Lake Placid""]","[-81.36289978027344,27.293100357055664]",Point,0.2
+,,,DooWop Cafe Radio,"[""DooWop Cafe Radio""]",Winter Haven,US,Florida,FL,"[""DooWop Cafe Radio"",""Winter Haven""]","[-81.73290252685547,28.022199630737305]",Point,1.9
+,,,SomaFM: Secret Agent,"[""SomaFM: Secret Agent""]",San Francisco,US,California,CA,"[""SomaFM: Secret Agent"",""San Francisco""]","[-122.41899871826172,37.774898529052734]",Point,4.5
+,,,PROG.FM,"[""PROG.FM""]",Morristown,US,New Jersey,NJ,"[""PROG.FM"",""Morristown""]","[-74.48149871826172,40.79679870605469]",Point,2
+WNAN,91.1,FM,WCAI,[],Nantucket,US,Massachusetts,MA,"[""WCAI"",""91.1"",""WNAN"",""Nantucket"",""FM""]","[-70.09950256347656,41.28350067138672]",Point,2
+WWOD,93.9,FM,The River 93.9,"[""The River""]",Woodstock,US,Vermont,VT,"[""The River 93.9"",""93.9"",""WWOD"",""Woodstock"",""FM""]","[-72.51840209960938,43.62419891357422]",Point,0.8
+W273BS,102.5,FM,WCCV,[],Chatsworth,US,Georgia,GA,"[""WCCV"",""102.5"",""W273BS"",""Chatsworth"",""FM""]","[-84.71499633789062,34.75170135498047]",Point,1.3
+WZEB,101.7,FM,WZEB Power 101.7,"[""Power""]",Ocean View,US,Delaware,DE,"[""WZEB Power 101.7"",""101.7"",""WZEB"",""Ocean View"",""FM""]","[-75.20030212402344,38.48889923095703]",Point,2.1
+KPSL,96.5,FM,La Ley,"[""La Ley""]",Bakersfield,US,California,CA,"[""La Ley"",""96.5"",""KPSL"",""Bakersfield"",""FM""]","[-118.88899993896484,35.485599517822266]",Point,3.8
+KQMQ,93.1,FM,HI93,"[""HI93""]",Honolulu,US,Hawaii,HI,"[""HI93"",""93.1"",""KQMQ"",""Honolulu"",""FM""]","[-158.0989990234375,21.39579963684082]",Point,2.1
+KRVS,88.7,FM,KRVS Public Media,"[""Public Media""]",Lafayette,US,Louisiana,LA,"[""KRVS Public Media"",""88.7"",""KRVS"",""Lafayette"",""FM""]","[-92.0197982788086,30.22410011291504]",Point,3.5
+KSMG,105.3,FM,MAGIC 105.3,"[""MAGIC""]",Seguin,US,Texas,TX,"[""MAGIC 105.3"",""105.3"",""KSMG"",""Seguin"",""FM""]","[-97.9646987915039,29.56879997253418]",Point,3.8
+WQNU,103.1,FM,WQNU,[],Lyndon,US,Kentucky,KY,"[""WQNU"",""103.1"",""WQNU"",""Lyndon"",""FM""]","[-85.55000305175781,38.32440185546875]",Point,1.4
+,89.6,FM,Spokane Latin Radio 896-s1484,"[""Spokane Latin Radio 896-s1484""]",Spokane,US,Washington,WA,"[""Spokane Latin Radio 896-s1484"",""89.6"",""Spokane"",""FM""]","[-117.4260025024414,47.65879821777344]",Point,0.5
+,,,Streaming Soundtracks,"[""Streaming Soundtracks""]",Richmond,US,Virginia,VA,"[""Streaming Soundtracks"",""Richmond""]","[-77.46029663085938,37.55379867553711]",Point,1.6
+,,,SomaFM: Groove Salad,"[""SomaFM: Groove Salad""]",San Francisco,US,California,CA,"[""SomaFM: Groove Salad"",""San Francisco""]","[-122.41899871826172,37.774898529052734]",Point,4.5
+KIWI,102.9,FM,Radio Lobo,"[""Radio Lobo""]",McFarland,US,California,CA,"[""Radio Lobo"",""102.9"",""KIWI"",""McFarland"",""FM""]","[-119.19499969482422,35.49250030517578]",Point,4.2
+WXCY,1510,AM,WXCY 103.7 & 96.9,"[""&""]",Salem,US,New Jersey,NJ,"[""WXCY 103.7 & 96.9"",""1510"",""WXCY"",""Salem"",""AM""]","[-75.46060180664062,39.58330154418945]",Point,2.2
+WOPI,98.1,FM,WOPI-FM,"[""WOPI-FM""]",Kingsport,US,Tennessee,TN,"[""WOPI-FM"",""98.1"",""WOPI"",""Kingsport"",""FM""]","[-82.16169738769531,36.59579849243164]",Point,1.8
+KUKN,105.5,FM,Cookin Country,"[""Cookin Country""]",Longview,US,Washington,WA,"[""Cookin Country"",""105.5"",""KUKN"",""Longview"",""FM""]","[-122.85399627685547,46.164398193359375]",Point,1.9
+KBLW,90.1,FM,KXEI,[],Billings,US,Montana,MT,"[""KXEI"",""90.1"",""KBLW"",""Billings"",""FM""]","[-108.4520034790039,45.76029968261719]",Point,2.6
+,,,Limbik Frequencies,"[""Limbik Frequencies""]",Milwaukee,US,Wisconsin,WI,"[""Limbik Frequencies"",""Milwaukee""]","[-87.90650177001953,43.03889846801758]",Point,3.3
+,,,Proton Radio,"[""Proton Radio""]",Dallas,US,Texas,TX,"[""Proton Radio"",""Dallas""]","[-96.80670166015625,32.78310012817383]",Point,2.4
+,,,SomaFM: Indie Pop Rocks!,"[""SomaFM: Indie Pop Rocks!""]",San Francisco,US,California,CA,"[""SomaFM: Indie Pop Rocks!"",""San Francisco""]","[-122.41899871826172,37.774898529052734]",Point,4.5
+WKQK,1300,AM,WKQK,[],Cocoa Beach,US,Florida,FL,"[""WKQK"",""1300"",""WKQK"",""Cocoa Beach"",""AM""]","[-80.76830291748047,28.343900680541992]",Point,1.5
+WDLM,89.3,FM,Moody Radio Quad Cities,"[""Moody Radio Quad Cities""]",East Moline,US,Illinois,IL,"[""Moody Radio Quad Cities"",""89.3"",""WDLM"",""East Moline"",""FM""]","[-90.4749984741211,41.54779815673828]",Point,4.8
+KIDO,580,AM,KIDO Talk Radio,"[""Talk Radio""]",Nampa,US,Idaho,ID,"[""KIDO Talk Radio"",""580"",""KIDO"",""Nampa"",""AM""]","[-116.56300354003906,43.54069900512695]",Point,2.2
+WPOL,1340,AM,WKEW,[],Winston-Salem,US,North Carolina,NC,"[""WKEW"",""1340"",""WPOL"",""Winston-Salem"",""AM""]","[-80.25530242919922,36.07389831542969]",Point,1.8
+WKBK,1290,AM,WKBK Radio,"[""Radio""]",Keene,US,New Hampshire,NH,"[""WKBK Radio"",""1290"",""WKBK"",""Keene"",""AM""]","[-72.2780990600586,42.93370056152344]",Point,3.8
+WCLV,104.9,FM,WCLV,[],Lorain,US,Ohio,OH,"[""WCLV"",""104.9"",""WCLV"",""Lorain"",""FM""]","[-82.18240356445312,41.45280075073242]",Point,2.3
+KPHW,104.3,FM,KPHW-FM,"[""KPHW-FM""]",Kaneohe,US,Hawaii,HI,"[""KPHW-FM"",""104.3"",""KPHW"",""Kaneohe"",""FM""]","[-157.802001953125,21.42169952392578]",Point,2.7
+KVPR,89.3,FM,Valley Public Radio,"[""Valley Public Radio""]",Clovis,US,California,CA,"[""Valley Public Radio"",""89.3"",""KVPR"",""Clovis"",""FM""]","[-119.7030029296875,36.825199127197266]",Point,4.7
+,,,No Holds Barred Radio,"[""No Holds Barred Radio""]",Scottsdale,US,Arizona,AZ,"[""No Holds Barred Radio"",""Scottsdale""]","[-111.89900207519531,33.50920104980469]",Point,1.7
+KHCC,90.1,FM,Radio Kansas,"[""Radio Kansas""]",Hutchinson,US,Kansas,KS,"[""Radio Kansas"",""90.1"",""KHCC"",""Hutchinson"",""FM""]","[-97.92980194091797,38.06079864501953]",Point,2.3
+WOLW,91.1,FM,WOLW,[],Cadillac,US,Michigan,MI,"[""WOLW"",""91.1"",""WOLW"",""Cadillac"",""FM""]","[-85.7136001586914,44.27579879760742]",Point,1.8
+KZRO,100.1,FM,KZRO/Z100FM/The Z-Channel,"[""KZRO/Z100FM/The Z-Channel""]",Dunsmuir,US,California,CA,"[""KZRO/Z100FM/The Z-Channel"",""100.1"",""KZRO"",""Dunsmuir"",""FM""]","[-122.23899841308594,41.29169845581055]",Point,2.4
+,,,CalFIRE CZU (San Mateo/Santa Cruz Counties),"[""CalFIRE CZU (San Mateo/Santa Cruz Counties)""]",Richmond,US,California,CA,"[""CalFIRE CZU (San Mateo/Santa Cruz Counties)"",""Richmond""]","[-122.3479995727539,37.93579864501953]",Point,0.5
+WSHE,100.3,FM,WSHE,[],Chicago,US,Illinois,IL,"[""WSHE"",""100.3"",""WSHE"",""Chicago"",""FM""]","[-87.65010070800781,41.849998474121094]",Point,4.7
+KQBU,920,AM,Lone Star Sports Radio 920 AM,"[""Lone Star Sports Radio AM""]",El Paso,US,Texas,TX,"[""Lone Star Sports Radio 920 AM"",""920"",""KQBU"",""El Paso"",""AM""]","[-106.48699951171875,31.758699417114258]",Point,2.9
+KIGN,101.9,FM,1019 KINGFM,"[""KINGFM""]",Burns,US,Wyoming,WY,"[""1019 KINGFM"",""101.9"",""KIGN"",""Burns"",""FM""]","[-104.35900115966797,41.19279861450195]",Point,2.3
+WCRN,830,AM,WCRN AM 830,"[""AM""]",Worcester,US,Massachusetts,MA,"[""WCRN AM 830"",""830"",""WCRN"",""Worcester"",""AM""]","[-71.93109893798828,42.24720001220703]",Point,2.1
+WEAN,99.7,FM,News Talk,"[""News Talk""]",Wakefield,US,Rhode Island,RI,"[""News Talk"",""99.7"",""WEAN"",""Wakefield"",""FM""]","[-71.63189697265625,41.57279968261719]",Point,2.3
+WWKL,106.7,FM,Hot 106.7,"[""Hot""]",Hershey,US,Pennsylvania,PA,"[""Hot 106.7"",""106.7"",""WWKL"",""Hershey"",""FM""]","[-76.65019989013672,40.2859001159668]",Point,2.1
+KQEI,89.3,FM,KQED-FM,"[""KQED-FM""]",North Highlands,US,California,CA,"[""KQED-FM"",""89.3"",""KQEI"",""North Highlands"",""FM""]","[-121.48200225830078,38.710601806640625]",Point,4.7
+WGBF,103.1,FM,103 GBF,"[""GBF""]",Henderson,US,Kentucky,KY,"[""103 GBF"",""103.1"",""WGBF"",""Henderson"",""FM""]","[-87.58999633789062,37.83620071411133]",Point,2.2
+,,,Artistfirst Radio,"[""Artistfirst Radio""]",,US,Ohio,OH,"[""Artistfirst Radio""]","[0,0]",Point,1.5
+,105.7,FM,Furia Grupera,"[""Furia Grupera""]",Estados Unidos,US,New York,NY,"[""Furia Grupera"",""105.7"",""Estados Unidos"",""FM""]","[-74.00599670410156,40.714298248291016]",Point,2.2
+WPZR,89.3,FM,Spirit FM,"[""Spirit FM""]",Emporia,US,Virginia,VA,"[""Spirit FM"",""89.3"",""WPZR"",""Emporia"",""FM""]","[-77.71289825439453,36.96120071411133]",Point,2.4
+,,,Eargazm Radio,"[""Eargazm Radio""]",Canterbury,US,Connecticut,CT,"[""Eargazm Radio"",""Canterbury""]","[-71.97090148925781,41.69839859008789]",Point,0.5
+WQHU-LP,105.5,FM,Forester Radio,"[""Forester Radio""]",Huntington,US,Indiana,IN,"[""Forester Radio"",""105.5"",""WQHU-LP"",""Huntington"",""FM""]","[-85.50859832763672,40.94860076904297]",Point,1.1
+,,,Railroad Radio San Francisco,"[""Railroad Radio San Francisco""]",San Francisco,US,California,CA,"[""Railroad Radio San Francisco"",""San Francisco""]","[-122.41899871826172,37.774898529052734]",Point,0.2
+,,,SomaFM: Beat Blender,"[""SomaFM: Beat Blender""]",San Francisco,US,California,CA,"[""SomaFM: Beat Blender"",""San Francisco""]","[-122.41899871826172,37.774898529052734]",Point,4.5
+WBLI,106.1,FM,106.1 BLI,"[""BLI""]",Patchogue,US,New York,NY,"[""106.1 BLI"",""106.1"",""WBLI"",""Patchogue"",""FM""]","[-73.01509857177734,40.76570129394531]",Point,3.9
+K300AE,107.9,FM,KLOV,[],Breckenridge,US,Colorado,CO,"[""KLOV"",""107.9"",""K300AE"",""Breckenridge"",""FM""]","[-106.03800201416016,39.4817008972168]",Point,2.9
+K217ER,91.3,FM,KMBI-FM,"[""KMBI-FM""]",Pateros,US,Washington,WA,"[""KMBI-FM"",""91.3"",""K217ER"",""Pateros"",""FM""]","[-119.98100280761719,48.016700744628906]",Point,4.7
+K205CM,88.9,FM,KTLF,[],Salida,US,Colorado,CO,"[""KTLF"",""88.9"",""K205CM"",""Salida"",""FM""]","[-106.1969985961914,38.74359893798828]",Point,2.7
+K269AB,101.7,FM,KMOZ-FM,"[""KMOZ-FM""]",Delta,US,Colorado,CO,"[""KMOZ-FM"",""101.7"",""K269AB"",""Delta"",""FM""]","[-108.39600372314453,38.419898986816406]",Point,4.4
+W213BW,90.5,FM,WSKG-FM,"[""WSKG-FM""]",Watkins Glen,US,New York,NY,"[""WSKG-FM"",""90.5"",""W213BW"",""Watkins Glen"",""FM""]","[-76.87329864501953,42.38059997558594]",Point,3.5
+K204CO,88.7,FM,KUSU-FM,"[""KUSU-FM""]",Panguitch,US,Utah,UT,"[""KUSU-FM"",""88.7"",""K204CO"",""Panguitch"",""FM""]","[-112.43599700927734,37.82279968261719]",Point,4.5
+K204EX,88.7,FM,KTLC,[],Paonia,US,Colorado,CO,"[""KTLC"",""88.7"",""K204EX"",""Paonia"",""FM""]","[-107.59700012207031,38.85940170288086]",Point,2.7
+W259AH,99.7,FM,WPHN,[],Petoskey,US,Michigan,MI,"[""WPHN"",""99.7"",""W259AH"",""Petoskey"",""FM""]","[-85.02890014648438,45.502201080322266]",Point,1.8
+K206CJ,89.1,FM,KRQZ,[],Issaquah,US,Washington,WA,"[""KRQZ"",""89.1"",""K206CJ"",""Issaquah"",""FM""]","[-121.98600006103516,47.5088996887207]",Point,2
+W266BQ,101.1,FM,WVTF Music,"[""Music""]",Crozet,US,Virginia,VA,"[""WVTF Music"",""101.1"",""W266BQ"",""Crozet"",""FM""]","[-78.79830169677734,38.06610107421875]",Point,4.6
+W204BF,88.7,FM,WCKZ,[],Fort Wayne,US,Indiana,IN,"[""WCKZ"",""88.7"",""W204BF"",""Fort Wayne"",""FM""]","[-85.17890167236328,41.103599548339844]",Point,2.3
+K267AJ,101.3,FM,KAWZ,[],Mt. Shasta,US,California,CA,"[""KAWZ"",""101.3"",""K267AJ"",""Mt. Shasta"",""FM""]","[-122.23999786376953,41.29169845581055]",Point,1.9
+K214EM,90.7,FM,KAWZ,[],Durant,US,Oklahoma,OK,"[""KAWZ"",""90.7"",""K214EM"",""Durant"",""FM""]","[-96.4269027709961,34.03670120239258]",Point,1.9
+K205EP,88.9,FM,WGEN-FM,"[""WGEN-FM""]",Santa Clarita,US,California,CA,"[""WGEN-FM"",""88.9"",""K205EP"",""Santa Clarita"",""FM""]","[-118.41600036621094,34.353599548339844]",Point,1.9
+K201FX,88.1,FM,KEFX,[],Reno,US,Texas,TX,"[""KEFX"",""88.1"",""K201FX"",""Reno"",""FM""]","[-95.54720306396484,33.61940002441406]",Point,1.1
+K209EG,89.7,FM,KWFL,[],Artesia,US,New Mexico,NM,"[""KWFL"",""89.7"",""K209EG"",""Artesia"",""FM""]","[-104.20800018310547,32.7942008972168]",Point,3.4
+K203EY,88.5,FM,KLOV,[],Saint George,US,Utah,UT,"[""KLOV"",""88.5"",""K203EY"",""Saint George"",""FM""]","[-113.57499694824219,37.0635986328125]",Point,2.9
+K213DT,90.5,FM,KEFX,[],Kerrville,US,Texas,TX,"[""KEFX"",""90.5"",""K213DT"",""Kerrville"",""FM""]","[-99.0250015258789,30.050800323486328]",Point,1.1
+K207DL,89.3,FM,WPCS,[],Twin Falls,US,Idaho,ID,"[""WPCS"",""89.3"",""K207DL"",""Twin Falls"",""FM""]","[-114.51599884033203,42.551700592041016]",Point,4.6
+KQSE,102.5,FM,La Nueva Mix,"[""La Nueva Mix""]",Gypsum,US,Colorado,CO,"[""La Nueva Mix"",""102.5"",""KQSE"",""Gypsum"",""FM""]","[-106.79900360107422,39.73830032348633]",Point,0.1
+WIZM,93.3,FM,Z-93,"[""Z-93""]",La Crosse,US,Wisconsin,WI,"[""Z-93"",""93.3"",""WIZM"",""La Crosse"",""FM""]","[-91.19969940185547,43.812198638916016]",Point,1.7
+KIHC,890,AM,Relevant Radio,"[""Relevant Radio""]",San Luis Obispo,US,California,CA,"[""Relevant Radio"",""890"",""KIHC"",""San Luis Obispo"",""AM""]","[-120.52100372314453,35.145599365234375]",Point,2
+W216BF,91.1,FM,WHWL,[],Manistique,US,Michigan,MI,"[""WHWL"",""91.1"",""W216BF"",""Manistique"",""FM""]","[-86.23639678955078,46.10969924926758]",Point,2.6
+W243AB,96.5,FM,WMVN,[],Westvale,US,New York,NY,"[""WMVN"",""96.5"",""W243AB"",""Westvale"",""FM""]","[-76.22049713134766,43.04759979248047]",Point,1.7
+K208AX,89.5,FM,KSOR,[],Lakeview,US,Oregon,OR,"[""KSOR"",""89.5"",""K208AX"",""Lakeview"",""FM""]","[-120.34600067138672,42.18880081176758]",Point,2.4
+K251CF,98.1,FM,KHTS,[],Santa Clarita,US,California,CA,"[""KHTS"",""98.1"",""K251CF"",""Santa Clarita"",""FM""]","[-118.5260009765625,34.42610168457031]",Point,2.2
+K236AE,95.1,FM,KNCW,[],Twisp,US,Washington,WA,"[""KNCW"",""95.1"",""K236AE"",""Twisp"",""FM""]","[-120.11499786376953,48.317501068115234]",Point,1.8
+K213EA,90.5,FM,KAWZ,[],Roswell,US,New Mexico,NM,"[""KAWZ"",""90.5"",""K213EA"",""Roswell"",""FM""]","[-104.63600158691406,33.36309814453125]",Point,1.9
+K272EY,102.3,FM,KAWZ,[],Chickasha,US,Oklahoma,OK,"[""KAWZ"",""102.3"",""K272EY"",""Chickasha"",""FM""]","[-98.02890014648438,34.98939895629883]",Point,1.9
+K204DN,88.7,FM,KAWZ,[],Paragould,US,Arkansas,AR,"[""KAWZ"",""88.7"",""K204DN"",""Paragould"",""FM""]","[-90.63279724121094,36.06829833984375]",Point,1.9
+W203AZ,88.5,FM,KAWZ,[],Chattanooga,US,Tennessee,TN,"[""KAWZ"",""88.5"",""W203AZ"",""Chattanooga"",""FM""]","[-85.31439971923828,35.16109848022461]",Point,1.9
+K279BV,103.7,FM,KAWZ,[],Johnstonville,US,California,CA,"[""KAWZ"",""103.7"",""K279BV"",""Johnstonville"",""FM""]","[-120.64299774169922,40.415000915527344]",Point,1.9
+K211EF,90.1,FM,Capital Public Radio,"[""Capital Public Radio""]",South Lake Tahoe,US,California,CA,"[""Capital Public Radio"",""90.1"",""K211EF"",""South Lake Tahoe"",""FM""]","[-119.96199798583984,38.91680145263672]",Point,3
+K214CM,90.7,FM,KAWZ,[],Roseburg,US,Oregon,OR,"[""KAWZ"",""90.7"",""K214CM"",""Roseburg"",""FM""]","[-123.3219985961914,43.23469924926758]",Point,1.9
+K204EO,88.7,FM,KLOV,[],Yankton,US,South Dakota,SD,"[""KLOV"",""88.7"",""K204EO"",""Yankton"",""FM""]","[-97.39730072021484,42.87110137939453]",Point,2.9
+K204GH,88.7,FM,KVIP-FM,"[""KVIP-FM""]",Chiloquin,US,Oregon,OR,"[""KVIP-FM"",""88.7"",""K204GH"",""Chiloquin"",""FM""]","[-121.89800262451172,42.58890151977539]",Point,4.5
+K203FB,88.5,FM,KJIL,[],Hays,US,Kansas,KS,"[""KJIL"",""88.5"",""K203FB"",""Hays"",""FM""]","[-99.35330200195312,38.92219924926758]",Point,1
+W213BL,90.5,FM,WMHR,[],Oneonta,US,New York,NY,"[""WMHR"",""90.5"",""W213BL"",""Oneonta"",""FM""]","[-75.08580017089844,42.423301696777344]",Point,2.4
+K262CW,100.3,FM,KWEY,[],Weatherford,US,Oklahoma,OK,"[""KWEY"",""100.3"",""K262CW"",""Weatherford"",""FM""]","[-102.39199829101562,35.88639831542969]",Point,0.3
+KBIL,89.7,FM,Air1 Radio,"[""Air1 Radio""]",Park City,US,Montana,MT,"[""Air1 Radio"",""89.7"",""KBIL"",""Park City"",""FM""]","[-108.76399993896484,45.85329818725586]",Point,1.7
+KYOR,88.9,FM,Family Radio Network,"[""Family Radio Network""]",Newport,US,Oregon,OR,"[""Family Radio Network"",""88.9"",""KYOR"",""Newport"",""FM""]","[-124.05000305175781,44.75640106201172]",Point,2.7
+K267CM,101.3,FM,KUNC,[],Steamboat Springs,US,Colorado,CO,"[""KUNC"",""101.3"",""K267CM"",""Steamboat Springs"",""FM""]","[-106.83200073242188,40.48500061035156]",Point,3.5
+KQEO,107.1,FM,Arrow 107.1,"[""Arrow""]",Idaho Falls,US,Idaho,ID,"[""Arrow 107.1"",""107.1"",""KQEO"",""Idaho Falls"",""FM""]","[-112.03399658203125,43.46659851074219]",Point,1.8
+KKIS,96.5,FM,Radio Kenai,"[""Radio Kenai""]",Soldotna,US,Alaska,AK,"[""Radio Kenai"",""96.5"",""KKIS"",""Soldotna"",""FM""]","[-151.05599975585938,60.52389907836914]",Point,0.2
+W246AR,97.1,FM,WRDV,[],Bensalem,US,Pennsylvania,PA,"[""WRDV"",""97.1"",""W246AR"",""Bensalem"",""FM""]","[-74.92610168457031,40.11000061035156]",Point,1.8
+K252DN,98.3,FM,KRCS,[],Spearfish,US,South Dakota,SD,"[""KRCS"",""98.3"",""K252DN"",""Spearfish"",""FM""]","[-103.83499908447266,44.49250030517578]",Point,3.5
+K265CJ,100.9,FM,KJJJ,[],Laughlin,US,Nevada,NV,"[""KJJJ"",""100.9"",""K265CJ"",""Laughlin"",""FM""]","[-114.74199676513672,35.246700286865234]",Point,1.8
+K215BC,90.9,FM,KAJX,[],Thomasville,US,Colorado,CO,"[""KAJX"",""90.9"",""K215BC"",""Thomasville"",""FM""]","[-106.7030029296875,39.36029815673828]",Point,2.7
+K220GE,91.9,FM,KUSU-FM,"[""KUSU-FM""]",Levan,US,Utah,UT,"[""KUSU-FM"",""91.9"",""K220GE"",""Levan"",""FM""]","[-111.86199951171875,39.55860137939453]",Point,4.5
+K222AJ,92.3,FM,KSKE-FM,"[""KSKE-FM""]",Vail,US,Colorado,CO,"[""KSKE-FM"",""92.3"",""K222AJ"",""Vail"",""FM""]","[-106.4489974975586,39.6161003112793]",Point,0.1
+K297BU,107.3,FM,KYOS,[],Merced,US,California,CA,"[""KYOS"",""107.3"",""K297BU"",""Merced"",""FM""]","[-120.43399810791016,37.291900634765625]",Point,2.1
+K259CA,99.7,FM,KEFX,[],Caliente,US,California,CA,"[""KEFX"",""99.7"",""K259CA"",""Caliente"",""FM""]","[-118.58999633789062,35.45280075073242]",Point,1.1
+K211FZ,90.1,FM,KAWZ,[],Austin,US,Texas,TX,"[""KAWZ"",""90.1"",""K211FZ"",""Austin"",""FM""]","[-97.90139770507812,30.24920082092285]",Point,1.9
+K201FP,88.1,FM,KAWZ,[],Arapaho,US,Oklahoma,OK,"[""KAWZ"",""88.1"",""K201FP"",""Arapaho"",""FM""]","[-98.87220001220703,35.52190017700195]",Point,1.9
+K214DI,90.7,FM,KHRI,[],Casper,US,Wyoming,WY,"[""KHRI"",""90.7"",""K214DI"",""Casper"",""FM""]","[-106.35900115966797,42.7406005859375]",Point,1.7
+W217BL,91.3,FM,KAWZ,[],Jacksonville,US,Florida,FL,"[""KAWZ"",""91.3"",""W217BL"",""Jacksonville"",""FM""]","[-81.63670349121094,30.275800704956055]",Point,1.9
+K210CW,89.9,FM,KLOV,[],Newport,US,Oregon,OR,"[""KLOV"",""89.9"",""K210CW"",""Newport"",""FM""]","[-124.0530014038086,44.63679885864258]",Point,2.9
+K262CK,100.3,FM,KXLG,[],Milbank,US,South Dakota,SD,"[""KXLG"",""100.3"",""K262CK"",""Milbank"",""FM""]","[-96.61689758300781,45.221900939941406]",Point,1.6
+K208EG,89.5,FM,KWFL,[],Alamosa,US,Colorado,CO,"[""KWFL"",""89.5"",""K208EG"",""Alamosa"",""FM""]","[-105.86199951171875,37.457801818847656]",Point,3.4
+K208ED,89.5,FM,KWFL,[],Deming,US,New Mexico,NM,"[""KWFL"",""89.5"",""K208ED"",""Deming"",""FM""]","[-107.75499725341797,32.2963981628418]",Point,3.4
+KUMT2,107.9,FM,KUMT,[],Ogden,US,Utah,UT,"[""KUMT"",""107.9"",""KUMT2"",""Ogden"",""FM""]","[-112.00800323486328,41.342201232910156]",Point,4.5
+W254AX,98.7,FM,WATK,[],Antigo,US,Wisconsin,WI,"[""WATK"",""98.7"",""W254AX"",""Antigo"",""FM""]","[-89.15249633789062,45.10639953613281]",Point,1.6
+W208BV,89.5,FM,WHJL,[],Mercer,US,Wisconsin,WI,"[""WHJL"",""89.5"",""W208BV"",""Mercer"",""FM""]","[-90.04889678955078,46.155799865722656]",Point,2.7
+KCCD,90.3,FM,KNOW-FM,"[""KNOW-FM""]",Moorhead,US,Minnesota,MN,"[""KNOW-FM"",""90.3"",""KCCD"",""Moorhead"",""FM""]","[-96.7676010131836,46.8739013671875]",Point,4.8
+WGLB,1560,AM,WGLB,[],Elm Grove,US,Wisconsin,WI,"[""WGLB"",""1560"",""WGLB"",""Elm Grove"",""AM""]","[-88.03500366210938,43.0088996887207]",Point,4.5
+WECC,89.3,FM,The Lighthouse WECC,"[""The Lighthouse""]",Folkston,US,Georgia,GA,"[""The Lighthouse WECC"",""89.3"",""WECC"",""Folkston"",""FM""]","[-81.70829772949219,30.931699752807617]",Point,1.9
+KSUN,1400,AM,La Mejor,"[""La Mejor""]",Phoenix,US,Arizona,AZ,"[""La Mejor"",""1400"",""KSUN"",""Phoenix"",""AM""]","[-112.0739974975586,33.44839859008789]",Point,0.5
+K237AY,95.3,FM,KSOS,[],Pioche,US,Nevada,NV,"[""KSOS"",""95.3"",""K237AY"",""Pioche"",""FM""]","[-114.45099639892578,37.92219924926758]",Point,4.6
+K233AF,94.5,FM,KUSU-FM,"[""KUSU-FM""]",Teasdale,US,Utah,UT,"[""KUSU-FM"",""94.5"",""K233AF"",""Teasdale"",""FM""]","[-111.47699737548828,38.28609848022461]",Point,4.5
+K285CP,104.9,FM,KNPR,[],Mammoth Lakes,US,California,CA,"[""KNPR"",""104.9"",""K285CP"",""Mammoth Lakes"",""FM""]","[-118.54900360107422,37.57529830932617]",Point,3.5
+WRVM,102.7,FM,WRVM Radio,"[""Radio""]",Suring,US,Wisconsin,WI,"[""WRVM Radio"",""102.7"",""WRVM"",""Suring"",""FM""]","[-88.39859771728516,44.99169921875]",Point,2.7
+WAWZ,99.1,FM,Star 99.1 / WAWZ,"[""Star /""]",Zarephath,US,New Jersey,NJ,"[""Star 99.1 / WAWZ"",""99.1"",""WAWZ"",""Zarephath"",""FM""]","[-74.57060241699219,40.611698150634766]",Point,4.6
+K231BR,94.1,FM,KRCC,[],Walsenburg,US,Colorado,CO,"[""KRCC"",""94.1"",""K231BR"",""Walsenburg"",""FM""]","[-104.77999877929688,37.62419891357422]",Point,4.3
+K219DP,91.7,FM,KENW-FM,"[""KENW-FM""]",Fort Sumner,US,New Mexico,NM,"[""KENW-FM"",""91.7"",""K219DP"",""Fort Sumner"",""FM""]","[-104.24600219726562,34.47169876098633]",Point,2.5
+W215BG,90.9,FM,WOSR,[],Milford,US,Pennsylvania,PA,"[""WOSR"",""90.9"",""W215BG"",""Milford"",""FM""]","[-74.73040008544922,41.37300109863281]",Point,4.6
+K206CI,89.1,FM,KEFX,[],Mooreland,US,Oklahoma,OK,"[""KEFX"",""89.1"",""K206CI"",""Mooreland"",""FM""]","[-99.35140228271484,36.41109848022461]",Point,1.1
+K218ER,91.5,FM,KAWZ,[],Berlin,US,Oklahoma,OK,"[""KAWZ"",""91.5"",""K218ER"",""Berlin"",""FM""]","[-99.46029663085938,35.45029830932617]",Point,1.9
+K221DV,92.1,FM,KAWZ,[],Kamilche,US,Washington,WA,"[""KAWZ"",""92.1"",""K221DV"",""Kamilche"",""FM""]","[-123.13999938964844,47.13890075683594]",Point,1.9
+W202BQ,88.3,FM,WCPE,[],Aberdeen,US,North Carolina,NC,"[""WCPE"",""88.3"",""W202BQ"",""Aberdeen"",""FM""]","[-79.42949676513672,35.131500244140625]",Point,3.1
+K217EF,91.3,FM,KMRO,[],Desert Center,US,California,CA,"[""KMRO"",""91.3"",""K217EF"",""Desert Center"",""FM""]","[-115.4530029296875,33.654998779296875]",Point,3
+K212DO,90.3,FM,KVIP-FM,"[""KVIP-FM""]",Oakridge,US,Oregon,OR,"[""KVIP-FM"",""90.3"",""K212DO"",""Oakridge"",""FM""]","[-122.40399932861328,43.77640151977539]",Point,4.5
+K215FF,90.9,FM,KHRI,[],Rock Springs,US,Wyoming,WY,"[""KHRI"",""90.9"",""K215FF"",""Rock Springs"",""FM""]","[-109.2030029296875,41.587501525878906]",Point,1.7
+K217EP,91.3,FM,KAWC,[],Flagstaff,US,Arizona,AZ,"[""KAWC"",""91.3"",""K217EP"",""Flagstaff"",""FM""]","[-111.6510009765625,35.19810104370117]",Point,2.1
+W217BO,91.3,FM,WRVM,[],Marshfield,US,Wisconsin,WI,"[""WRVM"",""91.3"",""W217BO"",""Marshfield"",""FM""]","[-90.13890075683594,44.650001525878906]",Point,2.7
+K217AS,91.3,FM,KSOR,[],Big Bend,US,California,CA,"[""KSOR"",""91.3"",""K217AS"",""Big Bend"",""FM""]","[-121.91100311279297,41.02069854736328]",Point,2.4
+WLJS,91.9,FM,WLJS 91.9 fm,"[""fm""]",Jacksonville,US,Alabama,AL,"[""WLJS 91.9 fm"",""91.9"",""WLJS"",""Jacksonville"",""FM""]","[-85.76139831542969,33.81370162963867]",Point,1.8
+WVFJ,93.3,FM,The JOY FM Georgia,"[""The JOY FM Georgia""]",Tyrone,US,Georgia,GA,"[""The JOY FM Georgia"",""93.3"",""WVFJ"",""Tyrone"",""FM""]","[-84.689697265625,33.00389862060547]",Point,2.8
+W223CK,92.5,FM,WWJB,[],Brooksville,US,Florida,FL,"[""WWJB"",""92.5"",""W223CK"",""Brooksville"",""FM""]","[-82.37670135498047,28.555599212646484]",Point,1.1
+K261CW,100.1,FM,KERA,[],Tyler,US,Texas,TX,"[""KERA"",""100.1"",""K261CW"",""Tyler"",""FM""]","[-95.30110168457031,32.35129928588867]",Point,4.7
+KPOI,105.9,FM,105.9 The Wave FM,"[""The FM""]",Honolulu,US,Hawaii,HI,"[""105.9 The Wave FM"",""105.9"",""KPOI"",""Honolulu"",""FM""]","[-158.10000610351562,21.397499084472656]",Point,1.8
+K269AH,101.7,FM,KNCW,[],Oroville,US,Washington,WA,"[""KNCW"",""101.7"",""K269AH"",""Oroville"",""FM""]","[-119.38600158691406,48.78139877319336]",Point,1.8
+W279AG,103.7,FM,WJNJ,[],Atlantic Beach,US,Florida,FL,"[""WJNJ"",""103.7"",""W279AG"",""Atlantic Beach"",""FM""]","[-81.43000030517578,30.32469940185547]",Point,1
+K210CF,89.9,FM,KLOV,[],Kodiak,US,Alaska,AK,"[""KLOV"",""89.9"",""K210CF"",""Kodiak"",""FM""]","[-152.4290008544922,57.78919982910156]",Point,2.9
+W292DZ,106.3,FM,WPOZ-HD3,"[""WPOZ-HD3""]",Orlando,US,Florida,FL,"[""WPOZ-HD3"",""106.3"",""W292DZ"",""Orlando"",""FM""]","[-81.60489654541016,28.727500915527344]",Point,4.5
+W255DC,98.9,FM,WCIS-HD3,"[""WCIS-HD3""]",FULTON,US,New York,NY,"[""WCIS-HD3"",""98.9"",""W255DC"",""FULTON"",""FM""]","[-76.44309997558594,43.294700622558594]",Point,0.2
+K209CP,89.7,FM,WPCS,[],Talent,US,Oregon,OR,"[""WPCS"",""89.7"",""K209CP"",""Talent"",""FM""]","[-122.7490005493164,42.299198150634766]",Point,4.6
+K216ES,91.1,FM,KTLF,[],Cardiff,US,Colorado,CO,"[""KTLF"",""91.1"",""K216ES"",""Cardiff"",""FM""]","[-107.34200286865234,39.532798767089844]",Point,2.7
+W220CH,91.7,FM,WMNR,[],West Hartford,US,Connecticut,CT,"[""WMNR"",""91.7"",""W220CH"",""West Hartford"",""FM""]","[-72.79779815673828,41.79669952392578]",Point,2.9
+K217DG,91.3,FM,KAWZ,[],Rawlins,US,Wyoming,WY,"[""KAWZ"",""91.3"",""K217DG"",""Rawlins"",""FM""]","[-107.31700134277344,41.812801361083984]",Point,1.9
+K207CZ,89.3,FM,KHRI,[],Carlsbad,US,New Mexico,NM,"[""KHRI"",""89.3"",""K207CZ"",""Carlsbad"",""FM""]","[-104.22899627685547,32.42070007324219]",Point,1.7
+K211EQ,90.1,FM,KTLF,[],New Castle,US,Colorado,CO,"[""KTLF"",""90.1"",""K211EQ"",""New Castle"",""FM""]","[-107.4280014038086,39.559200286865234]",Point,2.7
+K220KA,91.9,FM,KAWZ,[],Kerrville,US,Texas,TX,"[""KAWZ"",""91.9"",""K220KA"",""Kerrville"",""FM""]","[-99.0250015258789,30.050800323486328]",Point,1.9
+W295AE,106.9,FM,Q-107,"[""Q-107""]",Trinity,US,Alabama,AL,"[""Q-107"",""106.9"",""W295AE"",""Trinity"",""FM""]","[-87.08190155029297,34.70920181274414]",Point,4.7
+K288GY,105.5,FM,105.5 Kool FM,"[""FM""]",Tooele,US,Utah,UT,"[""105.5 Kool FM"",""105.5"",""K288GY"",""Tooele"",""FM""]","[-112.2979965209961,40.530799865722656]",Point,1.6
+K207BK,89.3,FM,KTLF,[],Walsh,US,Colorado,CO,"[""KTLF"",""89.3"",""K207BK"",""Walsh"",""FM""]","[-102.28199768066406,37.388301849365234]",Point,2.7
+K232DB,94.3,FM,KROG,[],Myrtle Creek,US,Oregon,OR,"[""KROG"",""94.3"",""K232DB"",""Myrtle Creek"",""FM""]","[-123.28500366210938,42.90169906616211]",Point,1.7
+KLNB,88.3,FM,K-LOVE Radio,"[""K-LOVE Radio""]",Grand Island,US,Nebraska,NE,"[""K-LOVE Radio"",""88.3"",""KLNB"",""Grand Island"",""FM""]","[-98.34200286865234,40.92499923706055]",Point,2.9
+W203BD,88.5,FM,KHRI,[],Decatur,US,Illinois,IL,"[""KHRI"",""88.5"",""W203BD"",""Decatur"",""FM""]","[-88.99189758300781,39.80970001220703]",Point,1.7
+W279AI,103.7,FM,WLFJ-FM,"[""WLFJ-FM""]",Hendersonville,US,North Carolina,NC,"[""WLFJ-FM"",""103.7"",""W279AI"",""Hendersonville"",""FM""]","[-82.51940155029297,35.30939865112305]",Point,3.3
+W300CE,107.9,FM,WRTP,[],Chapel Hill,US,North Carolina,NC,"[""WRTP"",""107.9"",""W300CE"",""Chapel Hill"",""FM""]","[-79.08000183105469,36.03559875488281]",Point,2
+W205BR,88.9,FM,WPCS,[],Elmira,US,New York,NY,"[""WPCS"",""88.9"",""W205BR"",""Elmira"",""FM""]","[-76.79329681396484,42.12670135498047]",Point,4.6
+WAYF,88.1,FM,South Florida's 88.1 WayFM,"[""South Florida's WayFM""]",West Palm Beach,US,Florida,FL,"[""South Florida's 88.1 WayFM"",""88.1"",""WAYF"",""West Palm Beach"",""FM""]","[-80.21219635009766,26.588899612426758]",Point,2.6
+K209FX,89.7,FM,KLOV,[],Mitchell,US,South Dakota,SD,"[""KLOV"",""89.7"",""K209FX"",""Mitchell"",""FM""]","[-98.02980041503906,43.70940017700195]",Point,2.9
+K201FK,88.1,FM,KAWZ,[],Burlington,US,Colorado,CO,"[""KAWZ"",""88.1"",""K201FK"",""Burlington"",""FM""]","[-102.16500091552734,39.337501525878906]",Point,1.9
+K210DL,89.9,FM,KEFX,[],Apple Valley,US,California,CA,"[""KEFX"",""89.9"",""K210DL"",""Apple Valley"",""FM""]","[-117.28900146484375,34.61109924316406]",Point,1.1
+W205CA,88.9,FM,WCPE,[],Foxfire,US,North Carolina,NC,"[""WCPE"",""88.9"",""W205CA"",""Foxfire"",""FM""]","[-79.57140350341797,35.17539978027344]",Point,3.1
+K203DP,88.5,FM,KEFX,[],Argenta,US,Nevada,NV,"[""KEFX"",""88.5"",""K203DP"",""Argenta"",""FM""]","[-116.8280029296875,40.71329879760742]",Point,1.1
+WKTT,97.5,FM,Live 97.5,"[""Live""]",Salisbury,US,Maryland,MD,"[""Live 97.5"",""97.5"",""WKTT"",""Salisbury"",""FM""]","[-75.61669921875,38.360801696777344]",Point,1.8
+KCMF,89.7,FM,KSJN,[],Fergus Falls,US,Minnesota,MN,"[""KSJN"",""89.7"",""KCMF"",""Fergus Falls"",""FM""]","[-96.07759857177734,46.28300094604492]",Point,4.7
+K220CH,91.9,FM,KCAW,[],Port Alexander,US,Alaska,AK,"[""KCAW"",""91.9"",""K220CH"",""Port Alexander"",""FM""]","[-134.6439971923828,56.249698638916016]",Point,2.4
+WCRF,103.3,FM,Moody Radio Cleveland,"[""Moody Radio Cleveland""]",Cleveland,US,Ohio,OH,"[""Moody Radio Cleveland"",""103.3"",""WCRF"",""Cleveland"",""FM""]","[-81.65750122070312,41.29669952392578]",Point,4.6
+W250BO,97.9,FM,Public Radio 90,"[""Public Radio""]",Stephenson,US,Michigan,MI,"[""Public Radio 90"",""97.9"",""W250BO"",""Stephenson"",""FM""]","[-87.60759735107422,45.41529846191406]",Point,4.3
+K255AJ,98.9,FM,KCNA,[],Myrtle Creek,US,Oregon,OR,"[""KCNA"",""98.9"",""K255AJ"",""Myrtle Creek"",""FM""]","[-123.28500366210938,42.90169906616211]",Point,1.4
+K211DK,90.1,FM,KMRO,[],Santa Ana,US,California,CA,"[""KMRO"",""90.1"",""K211DK"",""Santa Ana"",""FM""]","[-117.62300109863281,33.79669952392578]",Point,3
+K206DH,89.1,FM,KAWZ,[],Winslow,US,Arizona,AZ,"[""KAWZ"",""89.1"",""K206DH"",""Winslow"",""FM""]","[-110.62799835205078,35.02360153198242]",Point,1.9
+K217GC,91.3,FM,KAWZ,[],Nevada,US,Missouri,MO,"[""KAWZ"",""91.3"",""K217GC"",""Nevada"",""FM""]","[-94.37969970703125,37.8567008972168]",Point,1.9
+K218CZ,91.5,FM,KVIP-FM,"[""KVIP-FM""]",Coarsegold,US,California,CA,"[""KVIP-FM"",""91.5"",""K218CZ"",""Coarsegold"",""FM""]","[-119.66999816894531,37.3125]",Point,4.5
+K210EH,89.9,FM,KWMR,[],Bolinas,US,California,CA,"[""KWMR"",""89.9"",""K210EH"",""Bolinas"",""FM""]","[-122.71900177001953,37.930599212646484]",Point,1.9
+K208DZ,89.5,FM,KCME,[],Cripple Creek,US,Colorado,CO,"[""KCME"",""89.5"",""K208DZ"",""Cripple Creek"",""FM""]","[-105.14700317382812,38.71440124511719]",Point,1.9
+K210EL,89.9,FM,KCSP-FM,"[""KCSP-FM""]",Diamondville,US,Wyoming,WY,"[""KCSP-FM"",""89.9"",""K210EL"",""Diamondville"",""FM""]","[-110.5009994506836,41.83689880371094]",Point,2.1
+K298CO,107.5,FM,WRVM,[],Minneapolis,US,Minnesota,MN,"[""WRVM"",""107.5"",""K298CO"",""Minneapolis"",""FM""]","[-93.35169982910156,44.98889923095703]",Point,2.7
+KLIF,93.3,FM,The New HOT 93.3,"[""The New HOT""]",Dallas,US,Texas,TX,"[""The New HOT 93.3"",""93.3"",""KLIF"",""Dallas"",""FM""]","[-96.80670166015625,32.78310012817383]",Point,2.2
+,,,Solid Rock Radio,"[""Solid Rock Radio""]",Aiken,US,South Carolina,SC,"[""Solid Rock Radio"",""Aiken""]","[-81.71959686279297,33.56039810180664]",Point,1.5
+WHQT,105.1,FM,HOT 105,"[""HOT""]",Hollywood,US,Florida,FL,"[""HOT 105"",""105.1"",""WHQT"",""Hollywood"",""FM""]","[-80.14949798583984,26.011199951171875]",Point,3.7
+WPYA,97.3,FM,Mix 97.3,"[""Mix""]",Gardendale,US,Alabama,AL,"[""Mix 97.3"",""97.3"",""WPYA"",""Gardendale"",""FM""]","[-86.80690002441406,33.48440170288086]",Point,2.6
+K216CD,91.1,FM,KBSU-FM,"[""KBSU-FM""]",Lower Stanley,US,Idaho,ID,"[""KBSU-FM"",""91.1"",""K216CD"",""Lower Stanley"",""FM""]","[-114.92900085449219,44.226898193359375]",Point,2.9
+K222BJ,92.3,FM,KANZ,[],Ashland,US,Kansas,KS,"[""KANZ"",""92.3"",""K222BJ"",""Ashland"",""FM""]","[-99.8115005493164,37.21929931640625]",Point,2.6
+W289AI,105.7,FM,WVIA-FM,"[""WVIA-FM""]",Sunbury,US,Pennsylvania,PA,"[""WVIA-FM"",""105.7"",""W289AI"",""Sunbury"",""FM""]","[-76.79440307617188,40.86259841918945]",Point,4.8
+K220FC,91.9,FM,KUSU-FM,"[""KUSU-FM""]",Hanksville,US,Utah,UT,"[""KUSU-FM"",""91.9"",""K220FC"",""Hanksville"",""FM""]","[-110.71399688720703,38.37300109863281]",Point,4.5
+K257AU,99.3,FM,KKXK,[],Paonia,US,Colorado,CO,"[""KKXK"",""99.3"",""K257AU"",""Paonia"",""FM""]","[-107.66100311279297,38.8745002746582]",Point,3.9
+K201IW,88.1,FM,KENW-FM,"[""KENW-FM""]",Las Vegas,US,New Mexico,NM,"[""KENW-FM"",""88.1"",""K201IW"",""Las Vegas"",""FM""]","[-105.2239990234375,35.59389877319336]",Point,2.5
+W237AY,95.3,FM,WCIS-HD3,"[""WCIS-HD3""]",De Witt,US,New York,NY,"[""WCIS-HD3"",""95.3"",""W237AY"",""De Witt"",""FM""]","[-76.09390258789062,43.006900787353516]",Point,0.2
+K218CN,91.5,FM,KXEI,[],Choteau,US,Montana,MT,"[""KXEI"",""91.5"",""K218CN"",""Choteau"",""FM""]","[-112.16100311279297,47.75579833984375]",Point,2.6
+K260AK,99.9,FM,KVIP-FM,"[""KVIP-FM""]",Klamath Falls,US,Oregon,OR,"[""KVIP-FM"",""99.9"",""K260AK"",""Klamath Falls"",""FM""]","[-121.62799835205078,42.097198486328125]",Point,4.5
+K220JK,91.9,FM,KAWZ,[],Gardendale,US,Texas,TX,"[""KAWZ"",""91.9"",""K220JK"",""Gardendale"",""FM""]","[-102.3010025024414,32.048301696777344]",Point,1.9
+K205DK,88.9,FM,KODV,[],Yucca Valley,US,California,CA,"[""KODV"",""88.9"",""K205DK"",""Yucca Valley"",""FM""]","[-116.38899993896484,34.153099060058594]",Point,2.8
+K215EK,90.9,FM,KWFL,[],Carlsbad,US,New Mexico,NM,"[""KWFL"",""90.9"",""K215EK"",""Carlsbad"",""FM""]","[-104.197998046875,32.47439956665039]",Point,3.4
+W216BN,91.1,FM,WRTP,[],Raleigh,US,North Carolina,NC,"[""WRTP"",""91.1"",""W216BN"",""Raleigh"",""FM""]","[-78.60030364990234,35.751399993896484]",Point,2
+W260DA,99.9,FM,WQXM,[],Bartow,US,Florida,FL,"[""WQXM"",""99.9"",""W260DA"",""Bartow"",""FM""]","[-81.9124984741211,27.943099975585938]",Point,1.1
+K206DW,89.1,FM,KAWZ,[],Creston,US,Iowa,IA,"[""KAWZ"",""89.1"",""K206DW"",""Creston"",""FM""]","[-94.3499984741211,41.11309814453125]",Point,1.9
+DK215DG,90.9,FM,KAWZ,[],Willows,US,California,CA,"[""KAWZ"",""90.9"",""DK215DG"",""Willows"",""FM""]","[-122.16799926757812,39.523101806640625]",Point,1.9
+W240DM,95.9,FM,Freedom 96.5 and AM 1290,"[""Freedom and AM""]",Peoria,US,Illinois,IL,"[""Freedom 96.5 and AM 1290"",""95.9"",""W240DM"",""Peoria"",""FM""]","[-83.0967025756836,42.412200927734375]",Point,4.1
+K209EM,89.7,FM,KLOV,[],Huron,US,South Dakota,SD,"[""KLOV"",""89.7"",""K209EM"",""Huron"",""FM""]","[-98.243896484375,44.342498779296875]",Point,2.9
+K219LN,91.7,FM,KEFX,[],Kernville,US,California,CA,"[""KEFX"",""91.7"",""K219LN"",""Kernville"",""FM""]","[-118.55899810791016,35.7057991027832]",Point,1.1
+K205FE,88.9,FM,KXEI,[],Rock Springs,US,Wyoming,WY,"[""KXEI"",""88.9"",""K205FE"",""Rock Springs"",""FM""]","[-109.34300231933594,41.49720001220703]",Point,2.6
+K205DV,88.9,FM,KLOV,[],La Grande,US,Oregon,OR,"[""KLOV"",""88.9"",""K205DV"",""La Grande"",""FM""]","[-118.08799743652344,45.32460021972656]",Point,2.9
+WWMP,103.3,FM,Rock 103.3 - Burlington's Rock Station,"[""Rock Burlington's Rock Station""]",Waterbury,US,Vermont,VT,"[""Rock 103.3 - Burlington's Rock Station"",""103.3"",""WWMP"",""Waterbury"",""FM""]","[-72.85559844970703,44.60639953613281]",Point,1.9
+K219LR,91.7,FM,KVIP-FM,"[""KVIP-FM""]",Chemult,US,Oregon,OR,"[""KVIP-FM"",""91.7"",""K219LR"",""Chemult"",""FM""]","[-121.71600341796875,43.305599212646484]",Point,4.5
+K213DM,90.5,FM,KVIP-FM,"[""KVIP-FM""]",Heppner,US,Oregon,OR,"[""KVIP-FM"",""90.5"",""K213DM"",""Heppner"",""FM""]","[-119.50399780273438,45.3911018371582]",Point,4.5
+W254BB,98.7,FM,WRVM,[],Medford,US,Wisconsin,WI,"[""WRVM"",""98.7"",""W254BB"",""Medford"",""FM""]","[-90.33609771728516,45.12810134887695]",Point,2.7
+KKCN1,103.1,FM,KKCN,[],San Angelo,US,Texas,TX,"[""KKCN"",""103.1"",""KKCN1"",""San Angelo"",""FM""]","[-100.43699645996094,31.46380043029785]",Point,2
+KMIH,88.9,FM,889 The Bridge,"[""The Bridge""]",Mercer Island,US,Washington,WA,"[""889 The Bridge"",""88.9"",""KMIH"",""Mercer Island"",""FM""]","[-122.21800231933594,47.5724983215332]",Point,2.7
+WAME,550,AM,WAME,[],Statesville,US,North Carolina,NC,"[""WAME"",""550"",""WAME"",""Statesville"",""AM""]","[-80.85469818115234,35.7952995300293]",Point,1.5
+K220AY,91.9,FM,KPCW,[],Heber City,US,Utah,UT,"[""KPCW"",""91.9"",""K220AY"",""Heber City"",""FM""]","[-111.47599792480469,40.560001373291016]",Point,4.6
+W261CQ,100.1,FM,WLUJ,[],Decatur,US,Illinois,IL,"[""WLUJ"",""100.1"",""W261CQ"",""Decatur"",""FM""]","[-88.93280029296875,39.8119010925293]",Point,1.2
+K207DC,89.3,FM,KMBI-FM,"[""KMBI-FM""]",Tonasket,US,Washington,WA,"[""KMBI-FM"",""89.3"",""K207DC"",""Tonasket"",""FM""]","[-119.38099670410156,48.78969955444336]",Point,4.7
+K218AJ,91.5,FM,KUSU-FM,"[""KUSU-FM""]",Monroe,US,Utah,UT,"[""KUSU-FM"",""91.5"",""K218AJ"",""Monroe"",""FM""]","[-112.12100219726562,38.630001068115234]",Point,4.5
+K234AG,94.7,FM,KHYM,[],Ashland,US,Kansas,KS,"[""KHYM"",""94.7"",""K234AG"",""Ashland"",""FM""]","[-99.76439666748047,37.17689895629883]",Point,1.2
+KFRS,89.9,FM,Family Radio Network,"[""Family Radio Network""]",Soledad,US,California,CA,"[""Family Radio Network"",""89.9"",""KFRS"",""Soledad"",""FM""]","[-121.2699966430664,36.27360153198242]",Point,2.7
+K217CS,91.3,FM,KTXP,[],Washburn,US,Texas,TX,"[""KTXP"",""91.3"",""K217CS"",""Washburn"",""FM""]","[-101.572998046875,35.176700592041016]",Point,2.6
+W276BA,103.1,FM,WBFJ,[],Fancy Gap,US,Virginia,VA,"[""WBFJ"",""103.1"",""W276BA"",""Fancy Gap"",""FM""]","[-80.68000030517578,36.646400451660156]",Point,1.5
+W229AG,93.7,FM,WCNN,[],Atlanta,US,Georgia,GA,"[""WCNN"",""93.7"",""W229AG"",""Atlanta"",""FM""]","[-84.33940124511719,33.80720138549805]",Point,2
+W217AW,91.3,FM,WSMC-FM,"[""WSMC-FM""]",Dalton,US,Georgia,GA,"[""WSMC-FM"",""91.3"",""W217AW"",""Dalton"",""FM""]","[-84.97019958496094,34.769798278808594]",Point,2.3
+K215DM,90.9,FM,KHRI,[],Hoyt,US,Kansas,KS,"[""KHRI"",""90.9"",""K215DM"",""Hoyt"",""FM""]","[-95.75330352783203,39.03030014038086]",Point,1.7
+K273AJ,102.5,FM,KAWZ,[],Elwood,US,Oregon,OR,"[""KAWZ"",""102.5"",""K273AJ"",""Elwood"",""FM""]","[-122.29100036621094,45.131099700927734]",Point,1.9
+K209EV,89.7,FM,KEFX,[],Hadar,US,Nebraska,NE,"[""KEFX"",""89.7"",""K209EV"",""Hadar"",""FM""]","[-97.36859893798828,42.03219985961914]",Point,1.1
+K275BW,102.9,FM,KAWZ,[],Sequim,US,Washington,WA,"[""KAWZ"",""102.9"",""K275BW"",""Sequim"",""FM""]","[-123.16200256347656,48.13560104370117]",Point,1.9
+K208DW,89.5,FM,WJFM,[],DeRidder,US,Louisiana,LA,"[""WJFM"",""89.5"",""K208DW"",""DeRidder"",""FM""]","[-93.29029846191406,30.8789005279541]",Point,1.7
+K257DT,99.3,FM,KVIP-FM,"[""KVIP-FM""]",Sunriver,US,Oregon,OR,"[""KVIP-FM"",""99.3"",""K257DT"",""Sunriver"",""FM""]","[-121.35099792480469,43.82889938354492]",Point,4.5
+K208FN,89.5,FM,KVIP-FM,"[""KVIP-FM""]",Burns,US,Oregon,OR,"[""KVIP-FM"",""89.5"",""K208FN"",""Burns"",""FM""]","[-119.15899658203125,43.56330108642578]",Point,4.5
+W210BS,89.9,FM,WCPE,[],New Bern,US,North Carolina,NC,"[""WCPE"",""89.9"",""W210BS"",""New Bern"",""FM""]","[-77.04409790039062,35.10850143432617]",Point,3.1
+K216FL,91.1,FM,WPCS,[],Huntsville,US,Texas,TX,"[""WPCS"",""91.1"",""K216FL"",""Huntsville"",""FM""]","[-95.47560119628906,30.70359992980957]",Point,4.6
+K208FO,89.5,FM,WVCX,[],Prairie du Chien,US,Wisconsin,WI,"[""WVCX"",""89.5"",""K208FO"",""Prairie du Chien"",""FM""]","[-91.17500305175781,43.02669906616211]",Point,4.8
+K205EB,88.9,FM,KAWZ,[],Lanai City,US,Hawaii,HI,"[""KAWZ"",""88.9"",""K205EB"",""Lanai City"",""FM""]","[-156.86700439453125,20.806400299072266]",Point,1.9
+KLBV,89.3,FM,K-LOVE Radio,"[""K-LOVE Radio""]",Steamboat Springs,US,Colorado,CO,"[""K-LOVE Radio"",""89.3"",""KLBV"",""Steamboat Springs"",""FM""]","[-106.83200073242188,40.48500061035156]",Point,2.9
+K228AG,93.5,FM,KDNK,[],Leadville,US,Colorado,CO,"[""KDNK"",""93.5"",""K228AG"",""Leadville"",""FM""]","[-106.29299926757812,39.25080108642578]",Point,2.1
+WABD,97.5,FM,97.5 WABD,[],Mobile,US,Alabama,AL,"[""97.5 WABD"",""97.5"",""WABD"",""Mobile"",""FM""]","[-88.04309844970703,30.694400787353516]",Point,1.9
+KMNY,1360,AM,La Voz,"[""La Voz""]",Hurst,US,Texas,TX,"[""La Voz"",""1360"",""KMNY"",""Hurst"",""AM""]","[-97.17060089111328,32.82350158691406]",Point,1.5
+K201HM,88.1,FM,KCSP-FM,"[""KCSP-FM""]",Laramie,US,Wyoming,WY,"[""KCSP-FM"",""88.1"",""K201HM"",""Laramie"",""FM""]","[-105.46199798583984,41.27220153808594]",Point,2.1
+K218EX,91.5,FM,KHRI,[],Klamath Falls,US,Oregon,OR,"[""KHRI"",""91.5"",""K218EX"",""Klamath Falls"",""FM""]","[-121.78199768066406,42.22489929199219]",Point,1.7
+K237CB,95.3,FM,KKCH,[],Eagle,US,Colorado,CO,"[""KKCH"",""95.3"",""K237CB"",""Eagle"",""FM""]","[-106.86000061035156,39.64419937133789]",Point,0.2
+K236CO,95.1,FM,KYMN,[],Northfield,US,Minnesota,MN,"[""KYMN"",""95.1"",""K236CO"",""Northfield"",""FM""]","[-93.10530090332031,44.486698150634766]",Point,2
+K218FG,91.5,FM,KCJX,[],Basalt,US,Colorado,CO,"[""KCJX"",""91.5"",""K218FG"",""Basalt"",""FM""]","[-107.09200286865234,39.35279846191406]",Point,2.7
+DW260CD,99.9,FM,WERU-FM,"[""WERU-FM""]",Bangor,US,Maine,ME,"[""WERU-FM"",""99.9"",""DW260CD"",""Bangor"",""FM""]","[-68.7739028930664,44.79859924316406]",Point,2
+K201DX,88.1,FM,KHRI,[],Walla Walla,US,Washington,WA,"[""KHRI"",""88.1"",""K201DX"",""Walla Walla"",""FM""]","[-118.18000030517578,45.993900299072266]",Point,1.7
+W272AY,102.3,FM,WIMI,[],Park Falls,US,Wisconsin,WI,"[""WIMI"",""102.3"",""W272AY"",""Park Falls"",""FM""]","[-90.42109680175781,45.881099700927734]",Point,1.6
+K206EJ,89.1,FM,KEFX,[],Kailua Kona,US,Hawaii,HI,"[""KEFX"",""89.1"",""K206EJ"",""Kailua Kona"",""FM""]","[-155.92100524902344,19.720800399780273]",Point,1.1
+K256AR,99.1,FM,KWMW,[],Ruidoso,US,New Mexico,NM,"[""KWMW"",""99.1"",""K256AR"",""Ruidoso"",""FM""]","[-105.78199768066406,33.403900146484375]",Point,0.5
+K215CR,90.9,FM,KLOV,[],The Dalles,US,Oregon,OR,"[""KLOV"",""90.9"",""K215CR"",""The Dalles"",""FM""]","[-121.17900085449219,45.594600677490234]",Point,2.9
+K201IL,88.1,FM,KUNC,[],Breckenridge,US,Colorado,CO,"[""KUNC"",""88.1"",""K201IL"",""Breckenridge"",""FM""]","[-106.03800201416016,39.4817008972168]",Point,3.5
+K207CQ,89.3,FM,KLYT,[],Gallup,US,New Mexico,NM,"[""KLYT"",""89.3"",""K207CQ"",""Gallup"",""FM""]","[-108.74299621582031,35.54059982299805]",Point,1.2
+K225BR,92.9,FM,WRR,[],Fort Worth,US,Texas,TX,"[""WRR"",""92.9"",""K225BR"",""Fort Worth"",""FM""]","[-97.33419799804688,32.750301361083984]",Point,4.3
+K208EK,89.5,FM,KAWZ,[],Thayer,US,Kansas,KS,"[""KAWZ"",""89.5"",""K208EK"",""Thayer"",""FM""]","[-95.23500061035156,37.38529968261719]",Point,1.9
+K220IK,91.9,FM,KAWZ,[],Limon,US,Colorado,CO,"[""KAWZ"",""91.9"",""K220IK"",""Limon"",""FM""]","[-103.69499969482422,39.3760986328125]",Point,1.9
+K208FD,89.5,FM,KEFX,[],Elk City,US,Oklahoma,OK,"[""KEFX"",""89.5"",""K208FD"",""Elk City"",""FM""]","[-99.46029663085938,35.45029830932617]",Point,1.1
+KKUP1,91.5,FM,KKUP,[],Los Gatos,US,California,CA,"[""KKUP"",""91.5"",""KKUP1"",""Los Gatos"",""FM""]","[-121.9489974975586,37.2047004699707]",Point,4.7
+WLKJ1,105.7,FM,K-LOVE Radio,"[""K-LOVE Radio""]",Johnstown,US,Pennsylvania,PA,"[""K-LOVE Radio"",""105.7"",""WLKJ1"",""Johnstown"",""FM""]","[-78.91690063476562,40.32440185546875]",Point,2.9
+K217EC,91.3,FM,WJFM,[],Many,US,Louisiana,LA,"[""WJFM"",""91.3"",""K217EC"",""Many"",""FM""]","[-93.48410034179688,31.56879997253418]",Point,1.7
+KDUT2,102.3,FM,KDUT,[],Salt Lake City,US,Utah,UT,"[""KDUT"",""102.3"",""KDUT2"",""Salt Lake City"",""FM""]","[-111.88999938964844,40.808101654052734]",Point,1.8
+W210BR,89.9,FM,WXRI,[],Kingsport,US,Tennessee,TN,"[""WXRI"",""89.9"",""W210BR"",""Kingsport"",""FM""]","[-82.5875015258789,36.52690124511719]",Point,2.6
+W243CQ,96.5,FM,Public Radio 90,"[""Public Radio""]",Escanaba,US,Michigan,MI,"[""Public Radio 90"",""96.5"",""W243CQ"",""Escanaba"",""FM""]","[-87.0645980834961,45.745201110839844]",Point,4.3
+KSOS,90.5,FM,SOS Radio Network,"[""SOS Radio Network""]",Las Vegas,US,Nevada,NV,"[""SOS Radio Network"",""90.5"",""KSOS"",""Las Vegas"",""FM""]","[-115.00599670410156,36.00809860229492]",Point,4.6
+K210BQ,89.9,FM,KHYM,[],Woodward,US,Oklahoma,OK,"[""KHYM"",""89.9"",""K210BQ"",""Woodward"",""FM""]","[-99.47889709472656,36.402198791503906]",Point,1.2
+K252BI,98.3,FM,KRED,[],Fortuna,US,California,CA,"[""KRED"",""98.3"",""K252BI"",""Fortuna"",""FM""]","[-124.13700103759766,40.44609832763672]",Point,1.7
+K261BX,100.1,FM,KPLD,[],Page,US,Arizona,AZ,"[""KPLD"",""100.1"",""K261BX"",""Page"",""FM""]","[-111.43599700927734,36.85169982910156]",Point,2
+K209EY,89.7,FM,KAJX,[],Woody Creek Area,US,Colorado,CO,"[""KAJX"",""89.7"",""K209EY"",""Woody Creek Area"",""FM""]","[-106.947998046875,39.310298919677734]",Point,2.7
+W274AL,102.7,FM,WBFJ,[],High Point,US,North Carolina,NC,"[""WBFJ"",""102.7"",""W274AL"",""High Point"",""FM""]","[-79.9531021118164,35.75469970703125]",Point,1.5
+W295AU,106.9,FM,WVTQ,[],Manchester,US,Vermont,VT,"[""WVTQ"",""106.9"",""W295AU"",""Manchester"",""FM""]","[-73.07230377197266,43.163700103759766]",Point,4.6
+K228EM,93.5,FM,KCME,[],Colorado Springs,US,Colorado,CO,"[""KCME"",""93.5"",""K228EM"",""Colorado Springs"",""FM""]","[-104.88200378417969,38.810298919677734]",Point,0.5
+KJMO,97.5,FM,97.5 KJMO,[],Jefferson City,US,Missouri,MO,"[""97.5 KJMO"",""97.5"",""KJMO"",""Jefferson City"",""FM""]","[-92.17350006103516,38.576698303222656]",Point,1.1
+K216EB,91.1,FM,KLOV,[],Hood River,US,Oregon,OR,"[""KLOV"",""91.1"",""K216EB"",""Hood River"",""FM""]","[-121.52100372314453,45.70539855957031]",Point,2.9
+W209CJ,89.7,FM,WMNR,[],Mount Kisco,US,New York,NY,"[""WMNR"",""89.7"",""W209CJ"",""Mount Kisco"",""FM""]","[-73.71279907226562,41.23889923095703]",Point,2.9
+W205BT,88.9,FM,KHRI,[],New Albany,US,Indiana,IN,"[""KHRI"",""88.9"",""W205BT"",""New Albany"",""FM""]","[-85.83999633789062,38.365299224853516]",Point,1.7
+K204EU,88.7,FM,KEFX,[],Elko,US,Nevada,NV,"[""KEFX"",""88.7"",""K204EU"",""Elko"",""FM""]","[-115.8489990234375,40.92219924926758]",Point,1.1
+K204GJ,88.7,FM,KFLQ,[],Las Vegas,US,New Mexico,NM,"[""KFLQ"",""88.7"",""K204GJ"",""Las Vegas"",""FM""]","[-105.2030029296875,35.59920120239258]",Point,3.4
+W211BG,90.1,FM,KHRI,[],Walden,US,Tennessee,TN,"[""KHRI"",""90.1"",""W211BG"",""Walden"",""FM""]","[-85.2699966430664,35.21110153198242]",Point,1.7
+K201HB,88.1,FM,KAWZ,[],Aberdeen,US,South Dakota,SD,"[""KAWZ"",""88.1"",""K201HB"",""Aberdeen"",""FM""]","[-98.54720306396484,45.4557991027832]",Point,1.9
+W214BQ,90.7,FM,KAWZ,[],Brentwood,US,Tennessee,TN,"[""KAWZ"",""90.7"",""W214BQ"",""Brentwood"",""FM""]","[-86.83309936523438,36.04970169067383]",Point,1.9
+DK206CK,89.1,FM,KVIP-FM,"[""KVIP-FM""]",Gerlach,US,Nevada,NV,"[""KVIP-FM"",""89.1"",""DK206CK"",""Gerlach"",""FM""]","[-119.3550033569336,40.6515998840332]",Point,4.5
+K211DW,90.1,FM,Family Life Radio,"[""Family Life Radio""]",Tucumcari,US,New Mexico,NM,"[""Family Life Radio"",""90.1"",""K211DW"",""Tucumcari"",""FM""]","[-103.6989974975586,35.1338996887207]",Point,3.4
+K299BE,107.7,FM,KRQZ,[],San Luis Obispo,US,California,CA,"[""KRQZ"",""107.7"",""K299BE"",""San Luis Obispo"",""FM""]","[-120.65599822998047,35.36029815673828]",Point,2
+K212GI,90.3,FM,KLOV,[],Hastings,US,Nebraska,NE,"[""KLOV"",""90.3"",""K212GI"",""Hastings"",""FM""]","[-98.38839721679688,40.58610153198242]",Point,2.9
+K243BM,96.5,FM,KQBL-HD3,"[""KQBL-HD3""]",Boise,US,Idaho,ID,"[""KQBL-HD3"",""96.5"",""K243BM"",""Boise"",""FM""]","[-116.0979995727539,43.755001068115234]",Point,0.5
+W214BL,90.7,FM,KLOV,[],Oxford,US,Mississippi,MS,"[""KLOV"",""90.7"",""W214BL"",""Oxford"",""FM""]","[-89.51920318603516,34.36650085449219]",Point,2.9
+W205BW,88.9,FM,WSLL,[],Paul Smiths,US,New York,NY,"[""WSLL"",""88.9"",""W205BW"",""Paul Smiths"",""FM""]","[-74.26029968261719,44.4364013671875]",Point,4.7
+WACA,1540,AM,America 900,"[""America""]",Wheaton,US,Maryland,MD,"[""America 900"",""1540"",""WACA"",""Wheaton"",""AM""]","[-77.02940368652344,39.01390075683594]",Point,1.9
+W278AI,103.5,FM,WBYO,[],Center Valley,US,Pennsylvania,PA,"[""WBYO"",""103.5"",""W278AI"",""Center Valley"",""FM""]","[-75.44029998779297,40.56439971923828]",Point,4.4
+K212DX,89.9,FM,KNYD,[],Ponca City,US,Oklahoma,OK,"[""KNYD"",""89.9"",""K212DX"",""Ponca City"",""FM""]","[-97.16000366210938,36.759700775146484]",Point,4.6
+K230AG,93.9,FM,KVOD,[],Redstone,US,Colorado,CO,"[""KVOD"",""93.9"",""K230AG"",""Redstone"",""FM""]","[-107.23999786376953,39.18080139160156]",Point,3.9
+K215BY,90.9,FM,KUSU-FM,"[""KUSU-FM""]",Emery County,US,Utah,UT,"[""KUSU-FM"",""90.9"",""K215BY"",""Emery County"",""FM""]","[-110.60700225830078,39.18280029296875]",Point,4.5
+W233AJ,94.5,FM,WMNR,[],Old Saybrook,US,Connecticut,CT,"[""WMNR"",""94.5"",""W233AJ"",""Old Saybrook"",""FM""]","[-72.39749908447266,41.30970001220703]",Point,2.9
+W214CD,90.7,FM,KLOV,[],Wadsworth,US,Ohio,OH,"[""KLOV"",""90.7"",""W214CD"",""Wadsworth"",""FM""]","[-81.72989654541016,41.02560043334961]",Point,2.9
+K294CV,106.7,FM,KKJA,[],Powell Butte,US,Oregon,OR,"[""KKJA"",""106.7"",""K294CV"",""Powell Butte"",""FM""]","[-120.97699737548828,44.1974983215332]",Point,1.9
+K213DV,90.5,FM,KLOV,[],Pleasant Hill,US,Iowa,IA,"[""KLOV"",""90.5"",""K213DV"",""Pleasant Hill"",""FM""]","[-93.5198974609375,41.583900451660156]",Point,2.9
+K207FF,89.3,FM,WLOG,[],Big Spring,US,Texas,TX,"[""WLOG"",""89.3"",""K207FF"",""Big Spring"",""FM""]","[-101.4520034790039,32.218299865722656]",Point,2.2
+W216BP,91.1,FM,WCCV,[],Fort Payne,US,Alabama,AL,"[""WCCV"",""91.1"",""W216BP"",""Fort Payne"",""FM""]","[-85.747802734375,34.397499084472656]",Point,1.3
+KUMT1,107.9,FM,KUMT,[],Salt Lake City,US,Utah,UT,"[""KUMT"",""107.9"",""KUMT1"",""Salt Lake City"",""FM""]","[-111.88999938964844,40.808101654052734]",Point,4.5
+K208EC,89.5,FM,KVIP-FM,"[""KVIP-FM""]",Silver Lake,US,Oregon,OR,"[""KVIP-FM"",""89.5"",""K208EC"",""Silver Lake"",""FM""]","[-120.83000183105469,42.98360061645508]",Point,4.5
+K202DH,88.3,FM,KVIP-FM,"[""KVIP-FM""]",Condon,US,Oregon,OR,"[""KVIP-FM"",""88.3"",""K202DH"",""Condon"",""FM""]","[-120.12999725341797,45.24319839477539]",Point,4.5
+WBKC,90.9,FM,K-LOVE Radio,"[""K-LOVE Radio""]",Morgantown,US,Indiana,IN,"[""K-LOVE Radio"",""90.9"",""WBKC"",""Morgantown"",""FM""]","[-86.5188980102539,39.3213996887207]",Point,2.9
+WABX,107.5,FM,107.5 WABX,[],Evansville,US,Indiana,IN,"[""107.5 WABX"",""107.5"",""WABX"",""Evansville"",""FM""]","[-87.55580139160156,37.97480010986328]",Point,4.5
+WNSC,88.9,FM,WJWJ-FM,"[""WJWJ-FM""]",Rock Hill,US,South Carolina,SC,"[""WJWJ-FM"",""88.9"",""WNSC"",""Rock Hill"",""FM""]","[-81.02510070800781,34.92490005493164]",Point,2.6
+W263AO,100.5,FM,WCIC,[],Galesburg,US,Illinois,IL,"[""WCIC"",""100.5"",""W263AO"",""Galesburg"",""FM""]","[-90.34420013427734,40.94279861450195]",Point,2.5
+K213EU,90.5,FM,KAWZ,[],Fayetteville,US,Arkansas,AR,"[""KAWZ"",""90.5"",""K213EU"",""Fayetteville"",""FM""]","[-94.21890258789062,36.017799377441406]",Point,1.9
+K216DS,91.1,FM,KXEI,[],Browning,US,Montana,MT,"[""KXEI"",""91.1"",""K216DS"",""Browning"",""FM""]","[-113.0989990234375,48.70640182495117]",Point,2.6
+W229AO,93.7,FM,WDIY,[],Fogelsville,US,Pennsylvania,PA,"[""WDIY"",""93.7"",""W229AO"",""Fogelsville"",""FM""]","[-75.63269805908203,40.58319854736328]",Point,2.4
+W205BY,88.9,FM,KAWZ,[],Lexington,US,North Carolina,NC,"[""KAWZ"",""88.9"",""W205BY"",""Lexington"",""FM""]","[-80.40750122070312,35.82279968261719]",Point,1.9
+W219CD,91.7,FM,WBEZ,[],Elgin,US,Illinois,IL,"[""WBEZ"",""91.7"",""W219CD"",""Elgin"",""FM""]","[-88.38140106201172,42.01969909667969]",Point,3.9
+K243AK,96.5,FM,KSRW,[],Mammoth Lakes,US,California,CA,"[""KSRW"",""96.5"",""K243AK"",""Mammoth Lakes"",""FM""]","[-118.65799713134766,37.712501525878906]",Point,1.7
+K210CX,89.9,FM,KHRI,[],Yakima,US,Washington,WA,"[""KHRI"",""89.9"",""K210CX"",""Yakima"",""FM""]","[-120.50599670410156,46.60210037231445]",Point,1.7
+K207CW,89.3,FM,KAWZ,[],Paris,US,Arkansas,AR,"[""KAWZ"",""89.3"",""K207CW"",""Paris"",""FM""]","[-93.67720031738281,35.165000915527344]",Point,1.9
+K204EQ,88.7,FM,KAWZ,[],Woodward,US,Oklahoma,OK,"[""KAWZ"",""88.7"",""K204EQ"",""Woodward"",""FM""]","[-99.35140228271484,36.41109848022461]",Point,1.9
+K225CF,92.9,FM,KCGC,[],Sterling,US,Colorado,CO,"[""KCGC"",""92.9"",""K225CF"",""Sterling"",""FM""]","[-103.12300109863281,40.532501220703125]",Point,0.3
+K220IM,91.9,FM,KTLF,[],Brush,US,Colorado,CO,"[""KTLF"",""91.9"",""K220IM"",""Brush"",""FM""]","[-103.8270034790039,40.29079818725586]",Point,2.7
+W204BL,88.7,FM,KLOV,[],Gainesville,US,Florida,FL,"[""KLOV"",""88.7"",""W204BL"",""Gainesville"",""FM""]","[-82.30280303955078,29.661699295043945]",Point,2.9
+KJCC,89.5,FM,KAWZ,[],Carnegie,US,Oklahoma,OK,"[""KAWZ"",""89.5"",""KJCC"",""Carnegie"",""FM""]","[-98.4738998413086,35.11640167236328]",Point,1.9
+W218CM,91.5,FM,KAWZ,[],Glasgow,US,Kentucky,KY,"[""KAWZ"",""91.5"",""W218CM"",""Glasgow"",""FM""]","[-86.002197265625,36.95940017700195]",Point,1.9
+W248CH,97.5,FM,KHOJ,[],Belleville,US,Illinois,IL,"[""KHOJ"",""97.5"",""W248CH"",""Belleville"",""FM""]","[-151.50799560546875,59.67190170288086]",Point,2
+K220HT,91.9,FM,KAWZ,[],Webster Groves,US,Missouri,MO,"[""KAWZ"",""91.9"",""K220HT"",""Webster Groves"",""FM""]","[-90.20059967041016,38.681400299072266]",Point,1.9
+KDUT1,102.3,FM,KDUT,[],Bountiful,US,Utah,UT,"[""KDUT"",""102.3"",""KDUT1"",""Bountiful"",""FM""]","[-111.86799621582031,40.83470153808594]",Point,1.8
+KKCR,90.9,FM,KKCR Kaua‚Äòi Community Radio,"[""Kaua‚Äòi Community Radio""]",Hanalei,US,Hawaii,HI,"[""KKCR Kaua‚Äòi Community Radio"",""90.9"",""KKCR"",""Hanalei"",""FM""]","[-159.5030059814453,22.205299377441406]",Point,2.3
+K209AF,89.7,FM,KUAT-FM,"[""KUAT-FM""]",Tucson,US,Arizona,AZ,"[""KUAT-FM"",""89.7"",""K209AF"",""Tucson"",""FM""]","[-110.9260025024414,32.22169876098633]",Point,1.8
+K215FG,90.9,FM,KXEI,[],Lustre,US,Montana,MT,"[""KXEI"",""90.9"",""K215FG"",""Lustre"",""FM""]","[-105.89399719238281,48.40769958496094]",Point,2.6
+K204GA,88.7,FM,KHSU,[],Ferndale,US,California,CA,"[""KHSU"",""88.7"",""K204GA"",""Ferndale"",""FM""]","[-124.28500366210938,40.50080108642578]",Point,4.7
+K260BQ,99.9,FM,KHSU-FM,"[""KHSU-FM""]",Willow Creek,US,California,CA,"[""KHSU-FM"",""99.9"",""K260BQ"",""Willow Creek"",""FM""]","[-123.73100280761719,40.874698638916016]",Point,4.7
+W267AN,101.3,FM,WBFJ,[],Wilkesboro,US,North Carolina,NC,"[""WBFJ"",""101.3"",""W267AN"",""Wilkesboro"",""FM""]","[-81.22579956054688,36.37670135498047]",Point,1.5
+K220GM,91.9,FM,KEAR-FM,"[""KEAR-FM""]",Placitas,US,New Mexico,NM,"[""KEAR-FM"",""91.9"",""K220GM"",""Placitas"",""FM""]","[-106.44999694824219,35.212799072265625]",Point,2.7
+W218CQ,91.5,FM,WYFQ-FM,"[""WYFQ-FM""]",Accomac,US,Virginia,VA,"[""WYFQ-FM"",""91.5"",""W218CQ"",""Accomac"",""FM""]","[-75.68360137939453,37.717201232910156]",Point,4.5
+K208DQ,89.5,FM,KTLC,[],Almont,US,Colorado,CO,"[""KTLC"",""89.5"",""K208DQ"",""Almont"",""FM""]","[-106.90599822998047,38.524200439453125]",Point,2.7
+DW207BY,89.3,FM,KAWZ,[],Danielsville,US,Georgia,GA,"[""KAWZ"",""89.3"",""DW207BY"",""Danielsville"",""FM""]","[-83.1082992553711,34.0718994140625]",Point,1.9
+K208DU,89.5,FM,KVIP-FM,"[""KVIP-FM""]",Happy Camp,US,California,CA,"[""KVIP-FM"",""89.5"",""K208DU"",""Happy Camp"",""FM""]","[-123.35299682617188,41.85810089111328]",Point,4.5
+W260CB,99.9,FM,WDMK-HD2,"[""WDMK-HD2""]",Detroit,US,Michigan,MI,"[""WDMK-HD2"",""99.9"",""W260CB"",""Detroit"",""FM""]","[-83.16390228271484,42.4536018371582]",Point,2.1
+W206BB,89.1,FM,WVHM,[],Madisonville,US,Kentucky,KY,"[""WVHM"",""89.1"",""W206BB"",""Madisonville"",""FM""]","[-87.4563980102539,37.41640090942383]",Point,0.9
+K205DT,88.9,FM,KAWZ,[],Indio,US,California,CA,"[""KAWZ"",""88.9"",""K205DT"",""Indio"",""FM""]","[-116.2239990234375,33.801700592041016]",Point,1.9
+K217EG,91.3,FM,KWFL,[],Lamar,US,Colorado,CO,"[""KWFL"",""91.3"",""K217EG"",""Lamar"",""FM""]","[-102.5979995727539,38.037200927734375]",Point,3.4
+K206CQ,89.1,FM,KJWA,[],Spokane,US,Washington,WA,"[""KJWA"",""89.1"",""K206CQ"",""Spokane"",""FM""]","[-117.2969970703125,47.5786018371582]",Point,0.7
+K206EI,89.1,FM,KPHA,[],Williston,US,North Dakota,ND,"[""KPHA"",""89.1"",""K206EI"",""Williston"",""FM""]","[-103.89299774169922,48.141700744628906]",Point,2.8
+W207BM,89.3,FM,WJFM,[],Lock Haven,US,Pennsylvania,PA,"[""WJFM"",""89.3"",""W207BM"",""Lock Haven"",""FM""]","[-77.49169921875,41.14609909057617]",Point,1.7
+K215DS,90.9,FM,Capital Public Radio,"[""Capital Public Radio""]",Truckee,US,California,CA,"[""Capital Public Radio"",""90.9"",""K215DS"",""Truckee"",""FM""]","[-119.94300079345703,39.323299407958984]",Point,3
+K223AM,92.5,FM,KAWZ,[],Wells,US,Nevada,NV,"[""KAWZ"",""92.5"",""K223AM"",""Wells"",""FM""]","[-114.94300079345703,41.197200775146484]",Point,1.9
+W295CN,106.9,FM,WSBB,[],Ormond Beach,US,Florida,FL,"[""WSBB"",""106.9"",""W295CN"",""Ormond Beach"",""FM""]","[-80.32029724121094,27.155000686645508]",Point,1.7
+W204BT,88.7,FM,WPCS,[],Meridian,US,Mississippi,MS,"[""WPCS"",""88.7"",""W204BT"",""Meridian"",""FM""]","[-88.63279724121094,32.35390090942383]",Point,4.6
+KOEZ,104.1,FM,104.1 EZ FM,"[""EZ FM""]",Des Moines,US,Iowa,IA,"[""104.1 EZ FM"",""104.1"",""KOEZ"",""Des Moines"",""FM""]","[-93.60910034179688,41.60049819946289]",Point,2.9
+K258DA,99.5,FM,KODA,[],Barrett,US,Texas,TX,"[""KODA"",""99.5"",""K258DA"",""Barrett"",""FM""]","[-94.91439819335938,29.9325008392334]",Point,2
+W263AE,100.5,FM,WLLX,[],Lewisburg,US,Tennessee,TN,"[""WLLX"",""100.5"",""W263AE"",""Lewisburg"",""FM""]","[-86.7656021118164,35.38249969482422]",Point,0.3
+K280GH,103.9,FM,KNOT,[],Prescott,US,Arizona,AZ,"[""KNOT"",""103.9"",""K280GH"",""Prescott"",""FM""]","[-112.53700256347656,34.48889923095703]",Point,3.1
+K211AT,90.1,FM,KRBD,[],Mountain Point,US,Alaska,AK,"[""KRBD"",""90.1"",""K211AT"",""Mountain Point"",""FM""]","[-131.5330047607422,55.29439926147461]",Point,1.5
+K240BX,95.9,FM,KNLR,[],Christmas Valley,US,Oregon,OR,"[""KNLR"",""95.9"",""K240BX"",""Christmas Valley"",""FM""]","[-120.88099670410156,43.16529846191406]",Point,1.2
+W214AA,90.7,FM,WSQX-FM,"[""WSQX-FM""]",Corning,US,New York,NY,"[""WSQX-FM"",""90.7"",""W214AA"",""Corning"",""FM""]","[-77.05470275878906,42.14289855957031]",Point,1.8
+W280DE,103.9,FM,WGNN,[],Champaign,US,Illinois,IL,"[""WGNN"",""103.9"",""W280DE"",""Champaign"",""FM""]","[-88.24579620361328,40.097198486328125]",Point,4.6
+W263AQ,100.5,FM,WJKG,[],Effingham,US,Illinois,IL,"[""WJKG"",""100.5"",""W263AQ"",""Effingham"",""FM""]","[-88.56220245361328,39.107200622558594]",Point,1
+K285ET,104.9,FM,KGBI-FM,"[""KGBI-FM""]",Kiron,US,Iowa,IA,"[""KGBI-FM"",""104.9"",""K285ET"",""Kiron"",""FM""]","[-95.32779693603516,42.195499420166016]",Point,4.7
+K211EY,90.1,FM,KSOS,[],Palmdale,US,California,CA,"[""KSOS"",""90.1"",""K211EY"",""Palmdale"",""FM""]","[-118.13600158691406,34.53559875488281]",Point,4.6
+K220JS,91.9,FM,KEFX,[],Ontario,US,Oregon,OR,"[""KEFX"",""91.9"",""K220JS"",""Ontario"",""FM""]","[-116.90599822998047,44.062198638916016]",Point,1.1
+K254AR,98.7,FM,KAWZ,[],Truckee,US,California,CA,"[""KAWZ"",""98.7"",""K254AR"",""Truckee"",""FM""]","[-119.94300079345703,39.323299407958984]",Point,1.9
+W201CD,88.1,FM,WRFI,[],Ithaca,US,New York,NY,"[""WRFI"",""88.1"",""W201CD"",""Ithaca"",""FM""]","[-76.5374984741211,42.44580078125]",Point,2
+W240CU,95.9,FM,WTJY,[],Lexington,US,North Carolina,NC,"[""WTJY"",""95.9"",""W240CU"",""Lexington"",""FM""]","[-80.25330352783203,35.82640075683594]",Point,2.6
+K220JR,91.9,FM,KHKV,[],Texarkana,US,Texas,TX,"[""KHKV"",""91.9"",""K220JR"",""Texarkana"",""FM""]","[-94.0886001586914,33.432498931884766]",Point,3
+K204DM,88.5,FM,KAWZ,[],Yreka,US,California,CA,"[""KAWZ"",""88.5"",""K204DM"",""Yreka"",""FM""]","[-122.7750015258789,41.73469924926758]",Point,1.9
+K264BA,100.7,FM,KWFL,[],Portales,US,New Mexico,NM,"[""KWFL"",""100.7"",""K264BA"",""Portales"",""FM""]","[-103.36900329589844,34.08470153808594]",Point,3.4
+W214BR,90.7,FM,WRVO,[],Geneva,US,New York,NY,"[""WRVO"",""90.7"",""W214BR"",""Geneva"",""FM""]","[-76.97769927978516,42.86899948120117]",Point,2.9
+W216BT,91.1,FM,WFSW,[],Port Saint Joe,US,Florida,FL,"[""WFSW"",""91.1"",""W216BT"",""Port Saint Joe"",""FM""]","[-85.3030014038086,29.811899185180664]",Point,2.6
+KJOE,106.1,FM,KJOE,[],Slayton,US,Minnesota,MN,"[""KJOE"",""106.1"",""KJOE"",""Slayton"",""FM""]","[-95.74749755859375,43.99530029296875]",Point,1.1
+WBCR,1470,AM,WBCR,[],Alcoa,US,Tennessee,TN,"[""WBCR"",""1470"",""WBCR"",""Alcoa"",""AM""]","[-84.01589965820312,35.76789855957031]",Point,1.3
+K215DT,90.9,FM,KENW-FM,"[""KENW-FM""]",San Augustin,US,New Mexico,NM,"[""KENW-FM"",""90.9"",""K215DT"",""San Augustin"",""FM""]","[-105.14600372314453,35.457801818847656]",Point,2.5
+W212AT,90.3,FM,WVIA-FM,"[""WVIA-FM""]",Clarks Summit,US,Pennsylvania,PA,"[""WVIA-FM"",""90.3"",""W212AT"",""Clarks Summit"",""FM""]","[-75.70850372314453,41.48870086669922]",Point,4.8
+K208AJ,89.5,FM,KUSU-FM,"[""KUSU-FM""]",Delta,US,Utah,UT,"[""KUSU-FM"",""89.5"",""K208AJ"",""Delta"",""FM""]","[-112.5770034790039,39.35219955444336]",Point,4.5
+K298AF,107.5,FM,KAWZ,[],Shasta,US,California,CA,"[""KAWZ"",""107.5"",""K298AF"",""Shasta"",""FM""]","[-122.52400207519531,40.65420150756836]",Point,1.9
+K217EQ,91.3,FM,KAWZ,[],Coalinga,US,California,CA,"[""KAWZ"",""91.3"",""K217EQ"",""Coalinga"",""FM""]","[-120.39900207519531,36.306400299072266]",Point,1.9
+K236AH,95.1,FM,KNCW,[],Synarep,US,Washington,WA,"[""KNCW"",""95.1"",""K236AH"",""Synarep"",""FM""]","[-119.23500061035156,48.548099517822266]",Point,1.8
+K276EF,103.1,FM,KAWZ,[],Muscoy,US,California,CA,"[""KAWZ"",""103.1"",""K276EF"",""Muscoy"",""FM""]","[-117.4990005493164,34.213600158691406]",Point,1.9
+K223AN,92.5,FM,KVNI,[],Coeur d'Alene,US,Idaho,ID,"[""KVNI"",""92.5"",""K223AN"",""Coeur d'Alene"",""FM""]","[-116.7300033569336,47.7317008972168]",Point,0.1
+KAIS,90.7,FM,Air1 Radio,"[""Air1 Radio""]",Tracy,US,California,CA,"[""Air1 Radio"",""90.7"",""KAIS"",""Tracy"",""FM""]","[-121.42500305175781,37.73970031738281]",Point,1.7
+K211FN,90.1,FM,KHRI,[],Norfolk,US,Nebraska,NE,"[""KHRI"",""90.1"",""K211FN"",""Norfolk"",""FM""]","[-97.36859893798828,42.03219985961914]",Point,1.7
+K209DV,89.7,FM,KBAQ,[],Scottsdale,US,Arizona,AZ,"[""KBAQ"",""89.7"",""K209DV"",""Scottsdale"",""FM""]","[-111.89900207519531,33.50920104980469]",Point,4.9
+K201FO,88.1,FM,KAWZ,[],Jennings,US,Louisiana,LA,"[""KAWZ"",""88.1"",""K201FO"",""Jennings"",""FM""]","[-92.62139892578125,30.191699981689453]",Point,1.9
+K216FR,91.1,FM,KEFX,[],Clinton,US,Oklahoma,OK,"[""KEFX"",""91.1"",""K216FR"",""Clinton"",""FM""]","[-98.87220001220703,35.52190017700195]",Point,1.1
+K211FH,90.1,FM,KEFX,[],Shelton,US,Washington,WA,"[""KEFX"",""90.1"",""K211FH"",""Shelton"",""FM""]","[-123.08999633789062,47.200801849365234]",Point,1.1
+W209CI,89.7,FM,KEFX,[],Binghamton,US,New York,NY,"[""KEFX"",""89.7"",""W209CI"",""Binghamton"",""FM""]","[-75.943603515625,42.0625]",Point,1.1
+K209ED,89.7,FM,KUVO,[],Breckenridge,US,Colorado,CO,"[""KUVO"",""89.7"",""K209ED"",""Breckenridge"",""FM""]","[-106.03800201416016,39.4817008972168]",Point,4.9
+K218DI,91.5,FM,WPCS,[],Woodrow,US,Texas,TX,"[""WPCS"",""91.5"",""K218DI"",""Woodrow"",""FM""]","[-101.88200378417969,33.48640060424805]",Point,4.6
+KUER1,90.1,FM,KUER-FM,"[""KUER-FM""]",Alta,US,Utah,UT,"[""KUER-FM"",""90.1"",""KUER1"",""Alta"",""FM""]","[-111.63800048828125,40.58879852294922]",Point,4.9
+WQMX,94.9,FM,WQMX,[],Akron,US,Ohio,OH,"[""WQMX"",""94.9"",""WQMX"",""Akron"",""FM""]","[-81.63330078125,41.082801818847656]",Point,4.5
+KZNS,1280,AM,KSL Sports Zone,"[""Sports Zone""]",Salt Lake City,US,Utah,UT,"[""KSL Sports Zone"",""1280"",""KZNS"",""Salt Lake City"",""AM""]","[-111.96900177001953,40.851898193359375]",Point,2.4
+WDVD,96.3,FM,96.3 WDVD,[],Detroit,US,Michigan,MI,"[""96.3 WDVD"",""96.3"",""WDVD"",""Detroit"",""FM""]","[-83.0457992553711,42.33140182495117]",Point,2.1
+WTSM,97.9,FM,The Joy FM,"[""The Joy FM""]",Woodville,US,Florida,FL,"[""The Joy FM"",""97.9"",""WTSM"",""Woodville"",""FM""]","[-84.24739837646484,30.31410026550293]",Point,2.8
+WDLS,900,AM,Country Western,"[""Country Western""]",Wisconsin Dells,US,Wisconsin,WI,"[""Country Western"",""900"",""WDLS"",""Wisconsin Dells"",""AM""]","[-89.77100372314453,43.627498626708984]",Point,3.6
+WNWV,107.3,FM,WNWV,[],Elyria,US,Ohio,OH,"[""WNWV"",""107.3"",""WNWV"",""Elyria"",""FM""]","[-82.00440216064453,41.26940155029297]",Point,2.5
+WVUB,91.1,FM,WVUB,[],Vincennes,US,Indiana,IN,"[""WVUB"",""91.1"",""WVUB"",""Vincennes"",""FM""]","[-87.52860260009766,38.67729949951172]",Point,1
+,,,STAR1079.com,"[""STAR1079.com""]",Reynoldsburg,US,Ohio,OH,"[""STAR1079.com"",""Reynoldsburg""]","[-82.81210327148438,39.95479965209961]",Point,3
+W222AP,92.3,FM,WESA,[],New Baltimore,US,Pennsylvania,PA,"[""WESA"",""92.3"",""W222AP"",""New Baltimore"",""FM""]","[-78.83470153808594,39.95719909667969]",Point,4.3
+WQEZ,1370,AM,WQEZ,[],Fort Campbell,US,Kentucky,KY,"[""WQEZ"",""1370"",""WQEZ"",""Fort Campbell"",""AM""]","[-87.43360137939453,36.6411018371582]",Point,4.1
+WLS,94.7,FM,94.7 WLS,[],Chicago,US,Illinois,IL,"[""94.7 WLS"",""94.7"",""WLS"",""Chicago"",""FM""]","[-87.65010070800781,41.849998474121094]",Point,2.4
+,91.9,FM,ZJB Radio,"[""ZJB Radio""]",Suwanee,US,Georgia,GA,"[""ZJB Radio"",""91.9"",""Suwanee"",""FM""]","[-84.07129669189453,34.05149841308594]",Point,1.7
+KHOV1,105.3,FM,KHOV-FM,"[""KHOV-FM""]",Constellation,US,Arizona,AZ,"[""KHOV-FM"",""105.3"",""KHOV1"",""Constellation"",""FM""]","[-112.58200073242188,34.06340026855469]",Point,2
+KZSU,90.1,FM,KZSU,[],Stanford,US,California,CA,"[""KZSU"",""90.1"",""KZSU"",""Stanford"",""FM""]","[-122.1780014038086,37.41170120239258]",Point,4.3
+,,,BBN Japanese,"[""BBN Japanese""]",Charlotte,US,North Carolina,NC,"[""BBN Japanese"",""Charlotte""]","[-80.84310150146484,35.22710037231445]",Point,2
+KGLL,88.1,FM,WAJS,[],Gillette,US,Wyoming,WY,"[""WAJS"",""88.1"",""KGLL"",""Gillette"",""FM""]","[-105.46299743652344,44.23059844970703]",Point,2.5
+KSJN,99.5,FM,YourClassical MPR,"[""YourClassical MPR""]",Minneapolis,US,Minnesota,MN,"[""YourClassical MPR"",""99.5"",""KSJN"",""Minneapolis"",""FM""]","[-93.26380157470703,44.97999954223633]",Point,4.7
+WLEB-LP,93.1,FM,Truth FM WLEB,"[""Truth FM""]",Lebanon,US,Pennsylvania,PA,"[""Truth FM WLEB"",""93.1"",""WLEB-LP"",""Lebanon"",""FM""]","[-76.4094009399414,40.34749984741211]",Point,2.5
+,,,First Amendment Radio,"[""First Amendment Radio""]",Houston,US,Texas,TX,"[""First Amendment Radio"",""Houston""]","[-95.36329650878906,29.7632999420166]",Point,1.5
+WGH,97.3,FM,97.3 The Eagle,"[""The Eagle""]",Newport News,US,Virginia,VA,"[""97.3 The Eagle"",""97.3"",""WGH"",""Newport News"",""FM""]","[-76.41169738769531,36.96310043334961]",Point,1.1
+KOOO,101.9,FM,101.9 The Keg,[],La VIsta,US,Nebraska,NE,"[""101.9 The Keg"",""101.9"",""KOOO"",""La VIsta"",""FM""]","[-96.19249725341797,41.05030059814453]",Point,4.3
+WBAN,1340,AM,941 The Wave,[],Bangor,US,Maine,ME,"[""941 The Wave"",""1340"",""WBAN"",""Bangor"",""AM""]","[-68.67890167236328,44.85279846191406]",Point,1.7
+,,,Yesterday USA Radio Blue,"[""Yesterday USA Radio Blue""]",Los Angeles,US,California,CA,"[""Yesterday USA Radio Blue"",""Los Angeles""]","[-118.24400329589844,34.05220031738281]",Point,1.6
+,,,WNAR,[],Lansdale,US,Pennsylvania,PA,"[""WNAR"",""Lansdale""]","[-75.28379821777344,40.24150085449219]",Point,2.9
+,,,"WVFI, The Voice of the Fighting Irish","[""WVFI, The Voice of the Fighting Irish""]",Saint Marys,US,Indiana,IN,"[""WVFI, The Voice of the Fighting Irish"",""Saint Marys""]","[-85.86470031738281,38.355899810791016]",Point,1.5
+KRCV,98.3,FM,Recuerdo LA,"[""Recuerdo LA""]",Los Angeles,US,California,CA,"[""Recuerdo LA"",""98.3"",""KRCV"",""Los Angeles"",""FM""]","[-118.24400329589844,34.05220031738281]",Point,2.1
+,,,KDRU 98.1 FM,"[""FM""]",Springfield,US,Missouri,MO,"[""KDRU 98.1 FM"",""Springfield""]","[-93.29820251464844,37.215301513671875]",Point,1.4
+KSTP,1500,AM,SKOR North,"[""SKOR North""]",Saint Paul,US,Minnesota,MN,"[""SKOR North"",""1500"",""KSTP"",""Saint Paul"",""AM""]","[-93.09329986572266,44.944400787353516]",Point,4.6
+KXXR,93.7,FM,93x,"[""93x""]",Minneapolis,US,Minnesota,MN,"[""93x"",""93.7"",""KXXR"",""Minneapolis"",""FM""]","[-93.26380157470703,44.97999954223633]",Point,4.8
+WNGC,106.1,FM,106.1 WNGC Your Georgia Country,"[""Your Georgia Country""]",Arcade,US,Georgia,GA,"[""106.1 WNGC Your Georgia Country"",""106.1"",""WNGC"",""Arcade"",""FM""]","[-83.56159973144531,34.07789993286133]",Point,4.4
+KIBZ,104.1,FM,104-1 The Blaze,"[""104-1 The Blaze""]",Crete,US,Nebraska,NE,"[""104-1 The Blaze"",""104.1"",""KIBZ"",""Crete"",""FM""]","[-96.9614028930664,40.62779998779297]",Point,3.4
