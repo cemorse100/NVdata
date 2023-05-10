@@ -1,0 +1,433 @@
+﻿callsign,frequency,band,names,location.city,location.country,location.full_state_name,location.state
+KBMW,92.7,FM,B92.7,Breckenridge,US,Minnesota,MN
+KAYD,101.7,FM,KD 101.7,Beaumont,US,Texas,TX
+KSZR,97.5,FM,97.5 The Vibe,Oro Valley,US,Arizona,AZ
+KYLR,92.1,FM,Air1 Radio,Hutto,US,Texas,TX
+WXJZ,100.9,FM,Classic Hits 100.9,Gainesville,US,Florida,FL
+WJSP,88.1,FM,GPB Radio,Warm Springs,US,Georgia,GA
+KYAL,1550,AM,KYAL,Sapulpa,US,Oklahoma,OK
+KTSO,100.9,FM,KTSO,Sapulpa,US,Oklahoma,OK
+WCPR,97.9,FM,97.9 CPR Rocks,D'iberville,US,Mississippi,MS
+WDMV,700,AM,Radio La Jefa,Walkersville,US,Maryland,MD
+KUZZ,550,AM,KUZZ-FM,Bakersfield,US,California,CA
+KWID,101.9,FM,La Buena,Las Vegas,US,Nevada,NV
+WBPC,95.1,FM,Beach 95.1,Ebro,US,Florida,FL
+KDXX,107.9,FM,Latino Mix 107.9/107.1,Dallas,US,Texas,TX
+KSGF,1260,AM,KSGF,Springfield,US,Missouri,MO
+WYBK,89.7,FM,BBN Radio,Chattanooga,US,Tennessee,TN
+WYGG,88.1,FM,Good News Radio,Asbury Park,US,New Jersey,NJ
+WAMU-HD2,88.5,FM,Bluegrass Country,Washington,US,Washington D.C.,DC
+WLLN,1370,AM,La Grande NC,Lillington,US,North Carolina,NC
+XETRA,91.1,FM,91X,San Diego,US,California,CA
+KPRB,106.3,FM,B106,Brush,US,Colorado,CO
+KMAJ,107.7,FM,Majic 107.7 Topeka,Carbondale,US,Kansas,KS
+WMAC,940,AM,News Talk 940 WMAdult Hits,Macon,US,Georgia,GA
+WSB,750,AM,WSB,Atlanta,US,Georgia,GA
+WQRR,101.7,FM,Alt 101.7,Reform,US,Alabama,AL
+WZIQ,106.5,FM,GNNradio,Smithville,US,Georgia,GA
+WDFB,88.1,FM,WDFB-FM,Danville,US,Kentucky,KY
+WNAN,91.1,FM,WCAI,Nantucket,US,Massachusetts,MA
+WWOD,93.9,FM,The River 93.9,Woodstock,US,Vermont,VT
+W273BS,102.5,FM,WCCV,Chatsworth,US,Georgia,GA
+WZEB,101.7,FM,WZEB Power 101.7,Ocean View,US,Delaware,DE
+KPSL,96.5,FM,La Ley,Bakersfield,US,California,CA
+KQMQ,93.1,FM,HI93,Honolulu,US,Hawaii,HI
+KRVS,88.7,FM,KRVS Public Media,Lafayette,US,Louisiana,LA
+KSMG,105.3,FM,MAGIC 105.3,Seguin,US,Texas,TX
+WQNU,103.1,FM,WQNU,Lyndon,US,Kentucky,KY
+KIWI,102.9,FM,Radio Lobo,McFarland,US,California,CA
+WXCY,1510,AM,WXCY 103.7 & 96.9,Salem,US,New Jersey,NJ
+WOPI,98.1,FM,WOPI-FM,Kingsport,US,Tennessee,TN
+KUKN,105.5,FM,Cookin Country,Longview,US,Washington,WA
+KBLW,90.1,FM,KXEI,Billings,US,Montana,MT
+WKQK,1300,AM,WKQK,Cocoa Beach,US,Florida,FL
+WDLM,89.3,FM,Moody Radio Quad Cities,East Moline,US,Illinois,IL
+KIDO,580,AM,KIDO Talk Radio,Nampa,US,Idaho,ID
+WPOL,1340,AM,WKEW,Winston-Salem,US,North Carolina,NC
+WKBK,1290,AM,WKBK Radio,Keene,US,New Hampshire,NH
+WCLV,104.9,FM,WCLV,Lorain,US,Ohio,OH
+KPHW,104.3,FM,KPHW-FM,Kaneohe,US,Hawaii,HI
+KVPR,89.3,FM,Valley Public Radio,Clovis,US,California,CA
+KHCC,90.1,FM,Radio Kansas,Hutchinson,US,Kansas,KS
+WOLW,91.1,FM,WOLW,Cadillac,US,Michigan,MI
+KZRO,100.1,FM,KZRO/Z100FM/The Z-Channel,Dunsmuir,US,California,CA
+,,,CalFIRE CZU (San Mateo/Santa Cruz Counties),Richmond,US,California,CA
+WSHE,100.3,FM,WSHE,Chicago,US,Illinois,IL
+KQBU,920,AM,Lone Star Sports Radio 920 AM,El Paso,US,Texas,TX
+KIGN,101.9,FM,1019 KINGFM,Burns,US,Wyoming,WY
+WCRN,830,AM,WCRN AM 830,Worcester,US,Massachusetts,MA
+WEAN,99.7,FM,News Talk,Wakefield,US,Rhode Island,RI
+WWKL,106.7,FM,Hot 106.7,Hershey,US,Pennsylvania,PA
+KQEI,89.3,FM,KQED-FM,North Highlands,US,California,CA
+WGBF,103.1,FM,103 GBF,Henderson,US,Kentucky,KY
+,,,Artistfirst Radio,,US,Ohio,OH
+,105.7,FM,Furia Grupera,Estados Unidos,US,New York,NY
+WPZR,89.3,FM,Spirit FM,Emporia,US,Virginia,VA
+,,,Eargazm Radio,Canterbury,US,Connecticut,CT
+WQHU-LP,105.5,FM,Forester Radio,Huntington,US,Indiana,IN
+,,,Railroad Radio San Francisco,San Francisco,US,California,CA
+,,,SomaFM: Beat Blender,San Francisco,US,California,CA
+WBLI,106.1,FM,106.1 BLI,Patchogue,US,New York,NY
+K300AE,107.9,FM,KLOV,Breckenridge,US,Colorado,CO
+K217ER,91.3,FM,KMBI-FM,Pateros,US,Washington,WA
+K205CM,88.9,FM,KTLF,Salida,US,Colorado,CO
+K269AB,101.7,FM,KMOZ-FM,Delta,US,Colorado,CO
+W213BW,90.5,FM,WSKG-FM,Watkins Glen,US,New York,NY
+K204CO,88.7,FM,KUSU-FM,Panguitch,US,Utah,UT
+K204EX,88.7,FM,KTLC,Paonia,US,Colorado,CO
+W259AH,99.7,FM,WPHN,Petoskey,US,Michigan,MI
+K206CJ,89.1,FM,KRQZ,Issaquah,US,Washington,WA
+W266BQ,101.1,FM,WVTF Music,Crozet,US,Virginia,VA
+W204BF,88.7,FM,WCKZ,Fort Wayne,US,Indiana,IN
+K267AJ,101.3,FM,KAWZ,Mt. Shasta,US,California,CA
+K214EM,90.7,FM,KAWZ,Durant,US,Oklahoma,OK
+K205EP,88.9,FM,WGEN-FM,Santa Clarita,US,California,CA
+K201FX,88.1,FM,KEFX,Reno,US,Texas,TX
+K209EG,89.7,FM,KWFL,Artesia,US,New Mexico,NM
+K203EY,88.5,FM,KLOV,Saint George,US,Utah,UT
+K213DT,90.5,FM,KEFX,Kerrville,US,Texas,TX
+K207DL,89.3,FM,WPCS,Twin Falls,US,Idaho,ID
+KQSE,102.5,FM,La Nueva Mix,Gypsum,US,Colorado,CO
+WIZM,93.3,FM,Z-93,La Crosse,US,Wisconsin,WI
+KIHC,890,AM,Relevant Radio,San Luis Obispo,US,California,CA
+W216BF,91.1,FM,WHWL,Manistique,US,Michigan,MI
+W243AB,96.5,FM,WMVN,Westvale,US,New York,NY
+K208AX,89.5,FM,KSOR,Lakeview,US,Oregon,OR
+K251CF,98.1,FM,KHTS,Santa Clarita,US,California,CA
+K236AE,95.1,FM,KNCW,Twisp,US,Washington,WA
+K213EA,90.5,FM,KAWZ,Roswell,US,New Mexico,NM
+K272EY,102.3,FM,KAWZ,Chickasha,US,Oklahoma,OK
+K204DN,88.7,FM,KAWZ,Paragould,US,Arkansas,AR
+W203AZ,88.5,FM,KAWZ,Chattanooga,US,Tennessee,TN
+K279BV,103.7,FM,KAWZ,Johnstonville,US,California,CA
+K211EF,90.1,FM,Capital Public Radio,South Lake Tahoe,US,California,CA
+K214CM,90.7,FM,KAWZ,Roseburg,US,Oregon,OR
+K204EO,88.7,FM,KLOV,Yankton,US,South Dakota,SD
+K204GH,88.7,FM,KVIP-FM,Chiloquin,US,Oregon,OR
+K203FB,88.5,FM,KJIL,Hays,US,Kansas,KS
+W213BL,90.5,FM,WMHR,Oneonta,US,New York,NY
+K262CW,100.3,FM,KWEY,Weatherford,US,Oklahoma,OK
+KBIL,89.7,FM,Air1 Radio,Park City,US,Montana,MT
+KYOR,88.9,FM,Family Radio Network,Newport,US,Oregon,OR
+K267CM,101.3,FM,KUNC,Steamboat Springs,US,Colorado,CO
+KQEO,107.1,FM,Arrow 107.1,Idaho Falls,US,Idaho,ID
+KKIS,96.5,FM,Radio Kenai,Soldotna,US,Alaska,AK
+W246AR,97.1,FM,WRDV,Bensalem,US,Pennsylvania,PA
+K252DN,98.3,FM,KRCS,Spearfish,US,South Dakota,SD
+K265CJ,100.9,FM,KJJJ,Laughlin,US,Nevada,NV
+K215BC,90.9,FM,KAJX,Thomasville,US,Colorado,CO
+K220GE,91.9,FM,KUSU-FM,Levan,US,Utah,UT
+K222AJ,92.3,FM,KSKE-FM,Vail,US,Colorado,CO
+K297BU,107.3,FM,KYOS,Merced,US,California,CA
+K259CA,99.7,FM,KEFX,Caliente,US,California,CA
+K211FZ,90.1,FM,KAWZ,Austin,US,Texas,TX
+K201FP,88.1,FM,KAWZ,Arapaho,US,Oklahoma,OK
+K214DI,90.7,FM,KHRI,Casper,US,Wyoming,WY
+W217BL,91.3,FM,KAWZ,Jacksonville,US,Florida,FL
+K210CW,89.9,FM,KLOV,Newport,US,Oregon,OR
+K262CK,100.3,FM,KXLG,Milbank,US,South Dakota,SD
+K208EG,89.5,FM,KWFL,Alamosa,US,Colorado,CO
+K208ED,89.5,FM,KWFL,Deming,US,New Mexico,NM
+KUMT2,107.9,FM,KUMT,Ogden,US,Utah,UT
+W254AX,98.7,FM,WATK,Antigo,US,Wisconsin,WI
+W208BV,89.5,FM,WHJL,Mercer,US,Wisconsin,WI
+KCCD,90.3,FM,KNOW-FM,Moorhead,US,Minnesota,MN
+WGLB,1560,AM,WGLB,Elm Grove,US,Wisconsin,WI
+WECC,89.3,FM,The Lighthouse WECC,Folkston,US,Georgia,GA
+KSUN,1400,AM,La Mejor,Phoenix,US,Arizona,AZ
+K237AY,95.3,FM,KSOS,Pioche,US,Nevada,NV
+K233AF,94.5,FM,KUSU-FM,Teasdale,US,Utah,UT
+K285CP,104.9,FM,KNPR,Mammoth Lakes,US,California,CA
+WRVM,102.7,FM,WRVM Radio,Suring,US,Wisconsin,WI
+WAWZ,99.1,FM,Star 99.1 / WAWZ,Zarephath,US,New Jersey,NJ
+K231BR,94.1,FM,KRCC,Walsenburg,US,Colorado,CO
+K219DP,91.7,FM,KENW-FM,Fort Sumner,US,New Mexico,NM
+W215BG,90.9,FM,WOSR,Milford,US,Pennsylvania,PA
+K206CI,89.1,FM,KEFX,Mooreland,US,Oklahoma,OK
+K218ER,91.5,FM,KAWZ,Berlin,US,Oklahoma,OK
+K221DV,92.1,FM,KAWZ,Kamilche,US,Washington,WA
+W202BQ,88.3,FM,WCPE,Aberdeen,US,North Carolina,NC
+K217EF,91.3,FM,KMRO,Desert Center,US,California,CA
+K212DO,90.3,FM,KVIP-FM,Oakridge,US,Oregon,OR
+K215FF,90.9,FM,KHRI,Rock Springs,US,Wyoming,WY
+K217EP,91.3,FM,KAWC,Flagstaff,US,Arizona,AZ
+W217BO,91.3,FM,WRVM,Marshfield,US,Wisconsin,WI
+K217AS,91.3,FM,KSOR,Big Bend,US,California,CA
+WLJS,91.9,FM,WLJS 91.9 fm,Jacksonville,US,Alabama,AL
+WVFJ,93.3,FM,The JOY FM Georgia,Tyrone,US,Georgia,GA
+W223CK,92.5,FM,WWJB,Brooksville,US,Florida,FL
+K261CW,100.1,FM,KERA,Tyler,US,Texas,TX
+KPOI,105.9,FM,105.9 The Wave FM,Honolulu,US,Hawaii,HI
+K269AH,101.7,FM,KNCW,Oroville,US,Washington,WA
+W279AG,103.7,FM,WJNJ,Atlantic Beach,US,Florida,FL
+K210CF,89.9,FM,KLOV,Kodiak,US,Alaska,AK
+W292DZ,106.3,FM,WPOZ-HD3,Orlando,US,Florida,FL
+W255DC,98.9,FM,WCIS-HD3,FULTON,US,New York,NY
+K209CP,89.7,FM,WPCS,Talent,US,Oregon,OR
+K216ES,91.1,FM,KTLF,Cardiff,US,Colorado,CO
+W220CH,91.7,FM,WMNR,West Hartford,US,Connecticut,CT
+K217DG,91.3,FM,KAWZ,Rawlins,US,Wyoming,WY
+K207CZ,89.3,FM,KHRI,Carlsbad,US,New Mexico,NM
+K211EQ,90.1,FM,KTLF,New Castle,US,Colorado,CO
+K220KA,91.9,FM,KAWZ,Kerrville,US,Texas,TX
+W295AE,106.9,FM,Q-107,Trinity,US,Alabama,AL
+K288GY,105.5,FM,105.5 Kool FM,Tooele,US,Utah,UT
+K207BK,89.3,FM,KTLF,Walsh,US,Colorado,CO
+K232DB,94.3,FM,KROG,Myrtle Creek,US,Oregon,OR
+KLNB,88.3,FM,K-LOVE Radio,Grand Island,US,Nebraska,NE
+W203BD,88.5,FM,KHRI,Decatur,US,Illinois,IL
+W279AI,103.7,FM,WLFJ-FM,Hendersonville,US,North Carolina,NC
+W300CE,107.9,FM,WRTP,Chapel Hill,US,North Carolina,NC
+W205BR,88.9,FM,WPCS,Elmira,US,New York,NY
+WAYF,88.1,FM,South Florida's 88.1 WayFM,West Palm Beach,US,Florida,FL
+K209FX,89.7,FM,KLOV,Mitchell,US,South Dakota,SD
+K201FK,88.1,FM,KAWZ,Burlington,US,Colorado,CO
+K210DL,89.9,FM,KEFX,Apple Valley,US,California,CA
+W205CA,88.9,FM,WCPE,Foxfire,US,North Carolina,NC
+K203DP,88.5,FM,KEFX,Argenta,US,Nevada,NV
+WKTT,97.5,FM,Live 97.5,Salisbury,US,Maryland,MD
+KCMF,89.7,FM,KSJN,Fergus Falls,US,Minnesota,MN
+K220CH,91.9,FM,KCAW,Port Alexander,US,Alaska,AK
+WCRF,103.3,FM,Moody Radio Cleveland,Cleveland,US,Ohio,OH
+W250BO,97.9,FM,Public Radio 90,Stephenson,US,Michigan,MI
+K255AJ,98.9,FM,KCNA,Myrtle Creek,US,Oregon,OR
+K211DK,90.1,FM,KMRO,Santa Ana,US,California,CA
+K206DH,89.1,FM,KAWZ,Winslow,US,Arizona,AZ
+K217GC,91.3,FM,KAWZ,Nevada,US,Missouri,MO
+K218CZ,91.5,FM,KVIP-FM,Coarsegold,US,California,CA
+K210EH,89.9,FM,KWMR,Bolinas,US,California,CA
+K208DZ,89.5,FM,KCME,Cripple Creek,US,Colorado,CO
+K210EL,89.9,FM,KCSP-FM,Diamondville,US,Wyoming,WY
+K298CO,107.5,FM,WRVM,Minneapolis,US,Minnesota,MN
+KLIF,93.3,FM,The New HOT 93.3,Dallas,US,Texas,TX
+,,,Solid Rock Radio,Aiken,US,South Carolina,SC
+WHQT,105.1,FM,HOT 105,Hollywood,US,Florida,FL
+WPYA,97.3,FM,Mix 97.3,Gardendale,US,Alabama,AL
+K216CD,91.1,FM,KBSU-FM,Lower Stanley,US,Idaho,ID
+K222BJ,92.3,FM,KANZ,Ashland,US,Kansas,KS
+W289AI,105.7,FM,WVIA-FM,Sunbury,US,Pennsylvania,PA
+K220FC,91.9,FM,KUSU-FM,Hanksville,US,Utah,UT
+K257AU,99.3,FM,KKXK,Paonia,US,Colorado,CO
+K201IW,88.1,FM,KENW-FM,Las Vegas,US,New Mexico,NM
+W237AY,95.3,FM,WCIS-HD3,De Witt,US,New York,NY
+K218CN,91.5,FM,KXEI,Choteau,US,Montana,MT
+K260AK,99.9,FM,KVIP-FM,Klamath Falls,US,Oregon,OR
+K220JK,91.9,FM,KAWZ,Gardendale,US,Texas,TX
+K205DK,88.9,FM,KODV,Yucca Valley,US,California,CA
+K215EK,90.9,FM,KWFL,Carlsbad,US,New Mexico,NM
+W216BN,91.1,FM,WRTP,Raleigh,US,North Carolina,NC
+W260DA,99.9,FM,WQXM,Bartow,US,Florida,FL
+K206DW,89.1,FM,KAWZ,Creston,US,Iowa,IA
+DK215DG,90.9,FM,KAWZ,Willows,US,California,CA
+W240DM,95.9,FM,Freedom 96.5 and AM 1290,Peoria,US,Illinois,IL
+K209EM,89.7,FM,KLOV,Huron,US,South Dakota,SD
+K219LN,91.7,FM,KEFX,Kernville,US,California,CA
+K205FE,88.9,FM,KXEI,Rock Springs,US,Wyoming,WY
+K205DV,88.9,FM,KLOV,La Grande,US,Oregon,OR
+WWMP,103.3,FM,Rock 103.3 - Burlington's Rock Station,Waterbury,US,Vermont,VT
+K219LR,91.7,FM,KVIP-FM,Chemult,US,Oregon,OR
+K213DM,90.5,FM,KVIP-FM,Heppner,US,Oregon,OR
+W254BB,98.7,FM,WRVM,Medford,US,Wisconsin,WI
+KKCN1,103.1,FM,KKCN,San Angelo,US,Texas,TX
+KMIH,88.9,FM,889 The Bridge,Mercer Island,US,Washington,WA
+WAME,550,AM,WAME,Statesville,US,North Carolina,NC
+K220AY,91.9,FM,KPCW,Heber City,US,Utah,UT
+W261CQ,100.1,FM,WLUJ,Decatur,US,Illinois,IL
+K207DC,89.3,FM,KMBI-FM,Tonasket,US,Washington,WA
+K218AJ,91.5,FM,KUSU-FM,Monroe,US,Utah,UT
+K234AG,94.7,FM,KHYM,Ashland,US,Kansas,KS
+KFRS,89.9,FM,Family Radio Network,Soledad,US,California,CA
+K217CS,91.3,FM,KTXP,Washburn,US,Texas,TX
+W276BA,103.1,FM,WBFJ,Fancy Gap,US,Virginia,VA
+W229AG,93.7,FM,WCNN,Atlanta,US,Georgia,GA
+W217AW,91.3,FM,WSMC-FM,Dalton,US,Georgia,GA
+K215DM,90.9,FM,KHRI,Hoyt,US,Kansas,KS
+K273AJ,102.5,FM,KAWZ,Elwood,US,Oregon,OR
+K209EV,89.7,FM,KEFX,Hadar,US,Nebraska,NE
+K275BW,102.9,FM,KAWZ,Sequim,US,Washington,WA
+K208DW,89.5,FM,WJFM,DeRidder,US,Louisiana,LA
+K257DT,99.3,FM,KVIP-FM,Sunriver,US,Oregon,OR
+K208FN,89.5,FM,KVIP-FM,Burns,US,Oregon,OR
+W210BS,89.9,FM,WCPE,New Bern,US,North Carolina,NC
+K216FL,91.1,FM,WPCS,Huntsville,US,Texas,TX
+K208FO,89.5,FM,WVCX,Prairie du Chien,US,Wisconsin,WI
+K205EB,88.9,FM,KAWZ,Lanai City,US,Hawaii,HI
+KLBV,89.3,FM,K-LOVE Radio,Steamboat Springs,US,Colorado,CO
+K228AG,93.5,FM,KDNK,Leadville,US,Colorado,CO
+WABD,97.5,FM,97.5 WABD,Mobile,US,Alabama,AL
+KMNY,1360,AM,La Voz,Hurst,US,Texas,TX
+K201HM,88.1,FM,KCSP-FM,Laramie,US,Wyoming,WY
+K218EX,91.5,FM,KHRI,Klamath Falls,US,Oregon,OR
+K237CB,95.3,FM,KKCH,Eagle,US,Colorado,CO
+K236CO,95.1,FM,KYMN,Northfield,US,Minnesota,MN
+K218FG,91.5,FM,KCJX,Basalt,US,Colorado,CO
+DW260CD,99.9,FM,WERU-FM,Bangor,US,Maine,ME
+K201DX,88.1,FM,KHRI,Walla Walla,US,Washington,WA
+W272AY,102.3,FM,WIMI,Park Falls,US,Wisconsin,WI
+K206EJ,89.1,FM,KEFX,Kailua Kona,US,Hawaii,HI
+K256AR,99.1,FM,KWMW,Ruidoso,US,New Mexico,NM
+K215CR,90.9,FM,KLOV,The Dalles,US,Oregon,OR
+K201IL,88.1,FM,KUNC,Breckenridge,US,Colorado,CO
+K207CQ,89.3,FM,KLYT,Gallup,US,New Mexico,NM
+K225BR,92.9,FM,WRR,Fort Worth,US,Texas,TX
+K208EK,89.5,FM,KAWZ,Thayer,US,Kansas,KS
+K220IK,91.9,FM,KAWZ,Limon,US,Colorado,CO
+K208FD,89.5,FM,KEFX,Elk City,US,Oklahoma,OK
+KKUP1,91.5,FM,KKUP,Los Gatos,US,California,CA
+WLKJ1,105.7,FM,K-LOVE Radio,Johnstown,US,Pennsylvania,PA
+K217EC,91.3,FM,WJFM,Many,US,Louisiana,LA
+KDUT2,102.3,FM,KDUT,Salt Lake City,US,Utah,UT
+W210BR,89.9,FM,WXRI,Kingsport,US,Tennessee,TN
+W243CQ,96.5,FM,Public Radio 90,Escanaba,US,Michigan,MI
+KSOS,90.5,FM,SOS Radio Network,Las Vegas,US,Nevada,NV
+K210BQ,89.9,FM,KHYM,Woodward,US,Oklahoma,OK
+K252BI,98.3,FM,KRED,Fortuna,US,California,CA
+K261BX,100.1,FM,KPLD,Page,US,Arizona,AZ
+K209EY,89.7,FM,KAJX,Woody Creek Area,US,Colorado,CO
+W274AL,102.7,FM,WBFJ,High Point,US,North Carolina,NC
+W295AU,106.9,FM,WVTQ,Manchester,US,Vermont,VT
+K228EM,93.5,FM,KCME,Colorado Springs,US,Colorado,CO
+KJMO,97.5,FM,97.5 KJMO,Jefferson City,US,Missouri,MO
+K216EB,91.1,FM,KLOV,Hood River,US,Oregon,OR
+W209CJ,89.7,FM,WMNR,Mount Kisco,US,New York,NY
+W205BT,88.9,FM,KHRI,New Albany,US,Indiana,IN
+K204EU,88.7,FM,KEFX,Elko,US,Nevada,NV
+K204GJ,88.7,FM,KFLQ,Las Vegas,US,New Mexico,NM
+W211BG,90.1,FM,KHRI,Walden,US,Tennessee,TN
+K201HB,88.1,FM,KAWZ,Aberdeen,US,South Dakota,SD
+W214BQ,90.7,FM,KAWZ,Brentwood,US,Tennessee,TN
+DK206CK,89.1,FM,KVIP-FM,Gerlach,US,Nevada,NV
+K211DW,90.1,FM,Family Life Radio,Tucumcari,US,New Mexico,NM
+K299BE,107.7,FM,KRQZ,San Luis Obispo,US,California,CA
+K212GI,90.3,FM,KLOV,Hastings,US,Nebraska,NE
+K243BM,96.5,FM,KQBL-HD3,Boise,US,Idaho,ID
+W214BL,90.7,FM,KLOV,Oxford,US,Mississippi,MS
+W205BW,88.9,FM,WSLL,Paul Smiths,US,New York,NY
+WACA,1540,AM,America 900,Wheaton,US,Maryland,MD
+W278AI,103.5,FM,WBYO,Center Valley,US,Pennsylvania,PA
+K212DX,89.9,FM,KNYD,Ponca City,US,Oklahoma,OK
+K230AG,93.9,FM,KVOD,Redstone,US,Colorado,CO
+K215BY,90.9,FM,KUSU-FM,Emery County,US,Utah,UT
+W233AJ,94.5,FM,WMNR,Old Saybrook,US,Connecticut,CT
+W214CD,90.7,FM,KLOV,Wadsworth,US,Ohio,OH
+K294CV,106.7,FM,KKJA,Powell Butte,US,Oregon,OR
+K213DV,90.5,FM,KLOV,Pleasant Hill,US,Iowa,IA
+K207FF,89.3,FM,WLOG,Big Spring,US,Texas,TX
+W216BP,91.1,FM,WCCV,Fort Payne,US,Alabama,AL
+KUMT1,107.9,FM,KUMT,Salt Lake City,US,Utah,UT
+K208EC,89.5,FM,KVIP-FM,Silver Lake,US,Oregon,OR
+K202DH,88.3,FM,KVIP-FM,Condon,US,Oregon,OR
+WBKC,90.9,FM,K-LOVE Radio,Morgantown,US,Indiana,IN
+WABX,107.5,FM,107.5 WABX,Evansville,US,Indiana,IN
+WNSC,88.9,FM,WJWJ-FM,Rock Hill,US,South Carolina,SC
+W263AO,100.5,FM,WCIC,Galesburg,US,Illinois,IL
+K213EU,90.5,FM,KAWZ,Fayetteville,US,Arkansas,AR
+K216DS,91.1,FM,KXEI,Browning,US,Montana,MT
+W229AO,93.7,FM,WDIY,Fogelsville,US,Pennsylvania,PA
+W205BY,88.9,FM,KAWZ,Lexington,US,North Carolina,NC
+W219CD,91.7,FM,WBEZ,Elgin,US,Illinois,IL
+K243AK,96.5,FM,KSRW,Mammoth Lakes,US,California,CA
+K210CX,89.9,FM,KHRI,Yakima,US,Washington,WA
+K207CW,89.3,FM,KAWZ,Paris,US,Arkansas,AR
+K204EQ,88.7,FM,KAWZ,Woodward,US,Oklahoma,OK
+K225CF,92.9,FM,KCGC,Sterling,US,Colorado,CO
+K220IM,91.9,FM,KTLF,Brush,US,Colorado,CO
+W204BL,88.7,FM,KLOV,Gainesville,US,Florida,FL
+KJCC,89.5,FM,KAWZ,Carnegie,US,Oklahoma,OK
+W218CM,91.5,FM,KAWZ,Glasgow,US,Kentucky,KY
+W248CH,97.5,FM,KHOJ,Belleville,US,Illinois,IL
+K220HT,91.9,FM,KAWZ,Webster Groves,US,Missouri,MO
+KDUT1,102.3,FM,KDUT,Bountiful,US,Utah,UT
+KKCR,90.9,FM,KKCR Kaua‚Äòi Community Radio,Hanalei,US,Hawaii,HI
+K209AF,89.7,FM,KUAT-FM,Tucson,US,Arizona,AZ
+K215FG,90.9,FM,KXEI,Lustre,US,Montana,MT
+K204GA,88.7,FM,KHSU,Ferndale,US,California,CA
+K260BQ,99.9,FM,KHSU-FM,Willow Creek,US,California,CA
+W267AN,101.3,FM,WBFJ,Wilkesboro,US,North Carolina,NC
+K220GM,91.9,FM,KEAR-FM,Placitas,US,New Mexico,NM
+W218CQ,91.5,FM,WYFQ-FM,Accomac,US,Virginia,VA
+K208DQ,89.5,FM,KTLC,Almont,US,Colorado,CO
+DW207BY,89.3,FM,KAWZ,Danielsville,US,Georgia,GA
+K208DU,89.5,FM,KVIP-FM,Happy Camp,US,California,CA
+W260CB,99.9,FM,WDMK-HD2,Detroit,US,Michigan,MI
+W206BB,89.1,FM,WVHM,Madisonville,US,Kentucky,KY
+K205DT,88.9,FM,KAWZ,Indio,US,California,CA
+K217EG,91.3,FM,KWFL,Lamar,US,Colorado,CO
+K206CQ,89.1,FM,KJWA,Spokane,US,Washington,WA
+K206EI,89.1,FM,KPHA,Williston,US,North Dakota,ND
+W207BM,89.3,FM,WJFM,Lock Haven,US,Pennsylvania,PA
+K215DS,90.9,FM,Capital Public Radio,Truckee,US,California,CA
+K223AM,92.5,FM,KAWZ,Wells,US,Nevada,NV
+W295CN,106.9,FM,WSBB,Ormond Beach,US,Florida,FL
+W204BT,88.7,FM,WPCS,Meridian,US,Mississippi,MS
+KOEZ,104.1,FM,104.1 EZ FM,Des Moines,US,Iowa,IA
+K258DA,99.5,FM,KODA,Barrett,US,Texas,TX
+W263AE,100.5,FM,WLLX,Lewisburg,US,Tennessee,TN
+K280GH,103.9,FM,KNOT,Prescott,US,Arizona,AZ
+K211AT,90.1,FM,KRBD,Mountain Point,US,Alaska,AK
+K240BX,95.9,FM,KNLR,Christmas Valley,US,Oregon,OR
+W214AA,90.7,FM,WSQX-FM,Corning,US,New York,NY
+W280DE,103.9,FM,WGNN,Champaign,US,Illinois,IL
+W263AQ,100.5,FM,WJKG,Effingham,US,Illinois,IL
+K285ET,104.9,FM,KGBI-FM,Kiron,US,Iowa,IA
+K211EY,90.1,FM,KSOS,Palmdale,US,California,CA
+K220JS,91.9,FM,KEFX,Ontario,US,Oregon,OR
+K254AR,98.7,FM,KAWZ,Truckee,US,California,CA
+W201CD,88.1,FM,WRFI,Ithaca,US,New York,NY
+W240CU,95.9,FM,WTJY,Lexington,US,North Carolina,NC
+K220JR,91.9,FM,KHKV,Texarkana,US,Texas,TX
+K204DM,88.5,FM,KAWZ,Yreka,US,California,CA
+K264BA,100.7,FM,KWFL,Portales,US,New Mexico,NM
+W214BR,90.7,FM,WRVO,Geneva,US,New York,NY
+W216BT,91.1,FM,WFSW,Port Saint Joe,US,Florida,FL
+KJOE,106.1,FM,KJOE,Slayton,US,Minnesota,MN
+WBCR,1470,AM,WBCR,Alcoa,US,Tennessee,TN
+K215DT,90.9,FM,KENW-FM,San Augustin,US,New Mexico,NM
+W212AT,90.3,FM,WVIA-FM,Clarks Summit,US,Pennsylvania,PA
+K208AJ,89.5,FM,KUSU-FM,Delta,US,Utah,UT
+K298AF,107.5,FM,KAWZ,Shasta,US,California,CA
+K217EQ,91.3,FM,KAWZ,Coalinga,US,California,CA
+K236AH,95.1,FM,KNCW,Synarep,US,Washington,WA
+K276EF,103.1,FM,KAWZ,Muscoy,US,California,CA
+K223AN,92.5,FM,KVNI,Coeur d'Alene,US,Idaho,ID
+KAIS,90.7,FM,Air1 Radio,Tracy,US,California,CA
+K211FN,90.1,FM,KHRI,Norfolk,US,Nebraska,NE
+K209DV,89.7,FM,KBAQ,Scottsdale,US,Arizona,AZ
+K201FO,88.1,FM,KAWZ,Jennings,US,Louisiana,LA
+K216FR,91.1,FM,KEFX,Clinton,US,Oklahoma,OK
+K211FH,90.1,FM,KEFX,Shelton,US,Washington,WA
+W209CI,89.7,FM,KEFX,Binghamton,US,New York,NY
+K209ED,89.7,FM,KUVO,Breckenridge,US,Colorado,CO
+K218DI,91.5,FM,WPCS,Woodrow,US,Texas,TX
+KUER1,90.1,FM,KUER-FM,Alta,US,Utah,UT
+WQMX,94.9,FM,WQMX,Akron,US,Ohio,OH
+KZNS,1280,AM,KSL Sports Zone,Salt Lake City,US,Utah,UT
+WDVD,96.3,FM,96.3 WDVD,Detroit,US,Michigan,MI
+WTSM,97.9,FM,The Joy FM,Woodville,US,Florida,FL
+WDLS,900,AM,Country Western,Wisconsin Dells,US,Wisconsin,WI
+WNWV,107.3,FM,WNWV,Elyria,US,Ohio,OH
+WVUB,91.1,FM,WVUB,Vincennes,US,Indiana,IN
+,,,STAR1079.com,Reynoldsburg,US,Ohio,OH
+W222AP,92.3,FM,WESA,New Baltimore,US,Pennsylvania,PA
+WQEZ,1370,AM,WQEZ,Fort Campbell,US,Kentucky,KY
+WLS,94.7,FM,94.7 WLS,Chicago,US,Illinois,IL
+,91.9,FM,ZJB Radio,Suwanee,US,Georgia,GA
+KHOV1,105.3,FM,KHOV-FM,Constellation,US,Arizona,AZ
+KZSU,90.1,FM,KZSU,Stanford,US,California,CA
+,,,BBN Japanese,Charlotte,US,North Carolina,NC
+KGLL,88.1,FM,WAJS,Gillette,US,Wyoming,WY
+KSJN,99.5,FM,YourClassical MPR,Minneapolis,US,Minnesota,MN
+WLEB-LP,93.1,FM,Truth FM WLEB,Lebanon,US,Pennsylvania,PA
+,,,First Amendment Radio,Houston,US,Texas,TX
+WGH,97.3,FM,97.3 The Eagle,Newport News,US,Virginia,VA
+KOOO,101.9,FM,101.9 The Keg,La VIsta,US,Nebraska,NE
+WBAN,1340,AM,941 The Wave,Bangor,US,Maine,ME
+,,,Yesterday USA Radio Blue,Los Angeles,US,California,CA
+,,,WNAR,Lansdale,US,Pennsylvania,PA
+,,,"WVFI, The Voice of the Fighting Irish",Saint Marys,US,Indiana,IN
+KRCV,98.3,FM,Recuerdo LA,Los Angeles,US,California,CA
+,,,KDRU 98.1 FM,Springfield,US,Missouri,MO
+KSTP,1500,AM,SKOR North,Saint Paul,US,Minnesota,MN
+KXXR,93.7,FM,93x,Minneapolis,US,Minnesota,MN
+WNGC,106.1,FM,106.1 WNGC Your Georgia Country,Arcade,US,Georgia,GA
+KIBZ,104.1,FM,104-1 The Blaze,Crete,US,Nebraska,NE
